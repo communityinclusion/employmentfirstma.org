@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ site.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+
+    <link href="/css/bootstrap.min.css" rel="stylesheet" media="screen">
+
+  <link href="/jc/jc.css" rel="stylesheet" media="screen">
+
+
+  </head>
+  <body>
+
+
+    <div class="container">
+    
+<div class="container">
+
+    <h1> {{ page.title }} </h1>
+
+      {{ content }}
+
+
+
+
+    </div><!-- /.container -->
+
+    <!-- JavaScript plugins (requires jQuery) -->
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="/js/bootstrap.min.js"></script>
+
+    <!-- Optionally enable responsive features in IE8 -->
+    <script src="/respond/respond.min.js"></script>
+    <script src="/scrollNav.js/jquery.scrollNav.min.js"></script>
+    <script>
+    $('.col-md-9').scrollNav({
+          headlineText: 'Jump To',
+			fixedMargin: 60,
+			arrowKeys: true,
+      headlineText: '',
+    showTopLink: false,
+    }
+  );
+
+$('.scroll-nav__list').addClass('nav nav-pills nav-stacked')
+    </script>
+
+  </body>
+</html>
