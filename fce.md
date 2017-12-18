@@ -1,6 +1,6 @@
 ---
 title: "Foundations of Community Employment"
-layout: default
+layout: tr
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Job Development"
-layout: default
+layout: tr
 ---
 
 **<a href="http://www.tacene.org/sites/tacene.org/files/files/Job_Dev_Essentials.pdf">Job Development Essentials: Second Edition</a>**  

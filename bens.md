@@ -1,6 +1,6 @@
 ---
 title: "Benefits"
-layout: default
+layout: tr
 ---
 
 [Basics of Social Security Fact Sheet](/files/Basics_of_Benefits_2014.doc)  

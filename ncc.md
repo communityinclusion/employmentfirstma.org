@@ -1,6 +1,6 @@
 ---
 title: "Networking and Community Connections"
-layout: default
+layout: tr
 ---
 
 

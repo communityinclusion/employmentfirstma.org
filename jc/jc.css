@@ -1,105 +1,49 @@
 
-  body {
-  padding-top: 70px;
+body{ background-color:#E6E5E6;}
+
+
+.tagline {font-size: 1.4em; color:#3B77B7; padding-top:2.5em;} 
+
+.blue {color: #3377B7;}
+
+  /* change the URL to a picture of your choice - the higher quality the better! */
+  .business-header {
+    background-color: #E3E7EF;
+    color:black;
+  }
+  h2, h3, h4{color:#3976B8;}
+
+  .cse .gsc-control-cse, .gsc-control-cse {padding:0 !important;}
+
+  .btn-info {background-color: #3377B7;}
+  input.gsc-search-button{background-color: #3377B7 !important;}
+  .no_top_padding {padding-top: 0; margin-top: 0; background-color:white;}
+
+  a.navbar-brand {color:#3377B7 !important;  }
+
+  /* Medium devices (tablets, 768px and up) */
+  @media (min-width: 768px) {
+  #navbarDropdown.green {color:white; background-color:#A5D48F;}
+  #navbarDropdown.orange {color:white; background-color:#D26716;}
+  #navbarDropdown.purple {color:white; background-color:#8665AB;}
+  #navbarDropdown.teal {color:white; background-color:#00A6A5;}
 }
-/* change the URL to a picture of your choice - the higher quality the better! */
-.business-header {
-    	background-image: url("/img/blue_bricks_jc.png");
-    background-repeat: repeat;
-  background-color: #E3E7EF;
-  color:black;
-}
-.business-header a {color: white;}
-h3{color:slateblue;}
+  
+  /* Large devices (desktops, 992px and up) */
+  @media (min-width: 992px) { 
+    ul.navbar-nav > li {min-width: 200px; border:2px solid white;}
+    
+  }
 
-h1 {color:#C41E3A !important;}
+  footer { padding:2em;  background-color:#3377B7; color: white; font-size: smaller; }
+footer  a {color:white;}
+footer h3 {color:white;}
+footer h4 {color:white;}
 
-h2 {color:#156BBE;}
-
-/*h3 {color:#000 !important; font-size:1.5em; padding-bottom:0px; margin-bottom:0px;}*/
-
-a {color:#156BBE; font-weight:bold;}
-
-img {
-  max-width: 100%;
-}
-
-.navbar-brand{ max-width: 250px;}
-
-.reddy {}
-
-footer{background-color:#156BBE; color:white; margin-top:4em;}
-
-.dropdown-header{ font-weight: bolder; color:#2C3E50; text-transform:uppercase; white-space: nowrap;}
-
-.navbar-default {
-    background-color: #156BBE;
-    border-color: #E7E7E7;
-}
-
-.navbar-default .navbar-nav > li > a:hover,
-.navbar-default .navbar-nav > li > a:focus {
-    color: #333;}
-
-
-
-@media only screen and (min-width: 992px) {
-    .scroll-nav {
-    margin-top: 60px;
-    position: fixed;
-    width:250px;
-}
-}
-
-@media only screen and (max-width: 992px) {
-	 .scroll-nav { display: none;}
- }
-
-
-/* Side notes for calling out things
--------------------------------------------------- */
-
-/* Base styles (regardless of theme) */
-.bs-callout {
-margin: 20px 0;
-padding: 15px 30px 15px 15px;
-border-left: 5px solid #eee;
-}
-.bs-callout h4 {
-margin-top: 0;
-}
-.bs-callout p:last-child {
-margin-bottom: 0;
-}
-.bs-callout code,
-.bs-callout .highlight {
-background-color: #fff;
-}
-
-/* Themes for different contexts */
-.bs-callout-danger {
-background-color: #fcf2f2;
-border-color: #dFb5b4;
-}
-.bs-callout-warning {
-background-color: #fefbed;
-border-color: #f1e7bc;
-}
-.bs-callout-info {
-background-color: #f0f7fd;
-border-color: #d0e3f0;
-}
-
-/*fonts*/
-.red{color:red;}
-
-.pattern {background-color: beige; padding: .2em 1em;
-border-radius: 10px;
-  border: 3px solid #000;}
-
-.pattern p {padding-bottom: 0px; margin-bottom: 0px;}
-.pattern a {color:#156BBE;}
-
-caption {font-weight: bold; font-variant: small-caps;}
-
-.four_hundy {max-width:450px;}
+  /* SIDE MENUS
+ornange  
+  */
+  
+  .bk-orange {background-color:#D26716; color:white; padding:1em; padding-bottom:2em;}
+  .bk-orange h3 {color: white;}
+  .bk-orange  a {color:white;}

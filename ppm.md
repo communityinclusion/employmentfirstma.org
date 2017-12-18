@@ -1,6 +1,6 @@
 ---
 title: "Program Development & Management"
-layout: default
+layout: tr
 ---
 
 [Ensuring Excellence in Community-Based Day Supports:  A Guide for Service Provider and Staff](files/DDS_CBDS_web_F.pdf)  

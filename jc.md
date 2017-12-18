@@ -1,7 +1,6 @@
 ---
-title: "Job Coaching
-"
-layout: default
+title: "Job Coaching"
+layout: tr
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Accommodations"
-layout: default
+layout: tr
 ---
 
 [Accommodations Toolkit](files/accomm-toolkit.doc)  

@@ -1,6 +1,6 @@
 ---
 title: "ADA & Employment Law"
-layout: default
+layout: tr
 ---
 
 [Job Applicants and the Americans with Disabilities Act](http://www.eeoc.gov/facts/jobapplicant.html)  

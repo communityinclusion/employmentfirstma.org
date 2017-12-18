@@ -1,0 +1,63 @@
+{% include head.html %}
+
+
+
+
+      <div class="container no_top_padding">
+         
+        {% include top.html %}
+        
+   
+
+   {% include menu.html %}
+
+
+   <div class="container">
+    
+    <div class="row">
+        <div class="col-4 bk-orange">
+                <nav class="nav flex-column">
+                        <h3>Tools & Resources <i class="fa fa-briefcase" aria-hidden="true"></i>
+                        </h3>
+                        <hr />
+                        
+                        <a class="nav-link" href="/fce.html">Foundations of Community Employment</a>
+                        <a class="nav-link" href="cp.html">Career Planning</a>
+                        <a class="nav-link" href="jd.html">Job Development</a>
+                        <a class="nav-link" href="ncc.html">Networking & Community Connections</a>
+                        <a class="nav-link" href="jc.html">Job Coaching</a>
+                        <a class="nav-link" href="acc.html">Accommodations</a>
+                        <a class="nav-link" href="bens.html">Benefits</a>
+                        <a class="nav-link" href="ada.html">ADA & Employment Law</a>
+                        <a class="nav-link" href="pubp.html">Public Policy</a>
+                        <a class="nav-link" href="ppm.html">Program Development & Management</a>
+                        
+                        
+                      </nav>
+                    
+        </div>
+        <div class="col-8">
+                <h1> {{ page.title }} </h1>
+                
+                      {{ content }}
+        </div>
+    </div>
+    
+
+  
+
+
+
+   </div>
+    </div><!-- /.container -->
+
+{% include footer.html %}
+    <!-- JavaScript plugins (requires jQuery) -->
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
+    
+    <!-- Optionally enable responsive features in IE8 -->
+  
+  </body>
+</html>

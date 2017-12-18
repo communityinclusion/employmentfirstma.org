@@ -1,6 +1,6 @@
 ---
 title: "Public Policy"
-layout: default
+layout: tr
 ---
 
 **The following documents relate to WIOA, Section 511, Subminimum Wage Policy:**

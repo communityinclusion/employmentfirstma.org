@@ -1,6 +1,6 @@
 ---
 title: "Career Planning"
-layout: default
+layout: tr
 ---
 
 
