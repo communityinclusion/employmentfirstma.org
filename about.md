@@ -4,7 +4,7 @@ layout: default
 ---
 
 
-###The Institute for Community Inclusion  
+### The Institute for Community Inclusion  
 *Promoting the inclusion of people with disabilities*
 
 
@@ -18,7 +18,7 @@ ICI was established in 1967 at Children's Hospital Boston by Dr. Allen Crocker a
 
 ICI projects and programs involve local, state, and national agencies, schools, institutes of higher education, national service programs, rehabilitation providers, multicultural organizations, employers, and many others. All of these partnerships work to further goals of independence and inclusion.  
 
-###Mission Statement
+### Mission Statement
 
 The Institute for Community Inclusion at UMass Boston supports the rights of children and adults with disabilities to participate in all aspects of the community. As practitioners, researchers, and teachers, we form partnerships with individuals, families, and communities. Together we advocate for personal choice, self-determination, and social and economic justice.  
 
