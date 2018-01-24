@@ -19,6 +19,8 @@
 <![endif]-->
 
 <link href="/jc/jc.css" rel="stylesheet" media="screen">
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
 
 <style type="text/css" media=screen>
 
@@ -238,6 +240,18 @@
                       </div>
         </div>
   </div>
+  <script>
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", user => {
+        if (!user) {
+          window.netlifyIdentity.on("login", () => {
+            document.location.href = "/admin/";
+          });
+        }
+      });
+    }
+  </script>
+  
 
 
 
