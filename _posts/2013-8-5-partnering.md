@@ -30,6 +30,7 @@ A few challenges for these partnerships have been:
 * Berkshire County Arc obtains better outcomes faster for those whom they go on to serve as adults, since most participants already have a job by the time they enter adult services. 
 * Providing employment supports during high school also benefits adult service agencies such as MRC and DDS, because students enter the adult service system ready to work or already working. Adult services resources can then be used to support job retention and job growth. 
 
+
 ## Suggestions for Replication
 
 ### Recommendations for providers:
