@@ -21,7 +21,7 @@ A few challenges for these partnerships have been:
 * Getting referrals early: With some school systems, early on Berkshire County Arc had to initiate contact with the schools or teachers to identify students who might benefit from vocational evaluation or services. More recently, as relationships with schools have been more solidified, schools have begun referring students earlier. With close partners such as Lenox High School, there is a process of ongoing communication such that both partners are aware of the students and their anticipated transition needs.   
 * Transportation: Public transportation doesn't always go where the jobs are. Some schools can provide transportation, but the preference is to help students become more independent since they won't have school services to rely on after they turn 22. 
 
-##Impact
+## Impact
 
 * As described by the director of Berkshire County Arc, "everybody wins" as a result of these transition partnerships: 
 * Most students get a job within two months of graduation. In Lenox, for example, almost every student has a job upon leaving school. Youth also gain financial, social, and personal growth as well as connection to the community. 
