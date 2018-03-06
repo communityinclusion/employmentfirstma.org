@@ -14,3 +14,13 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "page" # Used in routes, e.g. /admin/collections/blog
+    label: "Page" # Used in the UI
+    folder: "" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+   
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
