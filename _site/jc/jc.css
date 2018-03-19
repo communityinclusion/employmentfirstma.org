@@ -47,3 +47,13 @@ ornange
   .bk-orange {background-color:#D26716; color:white; padding:1em; padding-bottom:2em;}
   .bk-orange h3 {color: white;}
   .bk-orange  a {color:white;}
+
+  .carousel-caption {
+    right:0%;
+    left:0%;
+  background-color: #000;
+  
+    opacity: 0.6;
+    filter: alpha(opacity=60);
+  }
+  .carousel-caption h4 {color:white;}
