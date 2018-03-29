@@ -6,6 +6,7 @@ body{ background-color:#E6E5E6;}
 
 .blue {color: #3377B7;}
 
+
   /* change the URL to a picture of your choice - the higher quality the better! */
   .business-header {
     background-color: #E3E7EF;
@@ -27,6 +28,7 @@ body{ background-color:#E6E5E6;}
   #navbarDropdown.orange {color:white; background-color:#D26716;}
   #navbarDropdown.purple {color:white; background-color:#8665AB;}
   #navbarDropdown.teal {color:white; background-color:#00A6A5;}
+  #navbarDropdown.bluey {background-color: #3976B8; color:white;}
 }
   
   /* Large devices (desktops, 992px and up) */
