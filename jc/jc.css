@@ -1,5 +1,5 @@
 
-body{ background-color:#E6E5E6;}
+body{ background-color:#F8F9FA;}
 
 
 .tagline {color:#3B77B7; padding-top:.5em;} 
@@ -37,6 +37,7 @@ body{ background-color:#E6E5E6;}
     
   }
 
+  .padb {padding-bottom:4em;}
   footer { padding:2em;  background-color:#3377B7; color: white; font-size: smaller; }
 footer  a {color:white;}
 footer h3 {color:white;}
