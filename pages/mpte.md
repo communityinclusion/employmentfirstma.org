@@ -11,10 +11,11 @@ MPTE is funded through September 2021 by a 5-year federal grant from the Adminis
 
 The broad-based MPTE Consortium guides and supports the goals and objectives of MPTE across MPTE’s 4 focus areas, which research has shown are critical to the transition process:
 
-1. Cross-agency, cross-program, and cross-disciplinary collaborative efforts using a tiered approach at the state, local, and individual level.
-1. Youth and young adults with intellectual and developmental disabilities having work experiences and paid employment in integrated settings similar to their peers without disabilities, and within these efforts, building capacity for access to postsecondary education and training that positively impacts employment outcomes. 
-1.	Consistent family engagement in supporting competitive integrated employment.
-1.	Systematic development of self-determination and self-advocacy skills for youth with intellectual and developmental disabilities, with a focus on employment.
+ 
+1. **Cross Systems Collaboration**. Cross-agency, cross-program, and cross-disciplinary collaborative efforts using a tiered approach at the state, local, and individual level. 
+1. **Work Experiences**. Youth and young adults with intellectual and developmental disabilities having work experiences and paid employment in integrated settings similar to their peers without disabilities, and within these efforts, building capacity for access to postsecondary education and training that positively impacts employment outcomes. 
+1. **Family Engagement**. Consistent family engagement in supporting competitive integrated employment. 
+1. **Self-Determination and Self-Advocacy**. Systematic development of self-determination and self-advocacy skills for youth with intellectual and developmental disabilities, with a focus on employment. 
 
 Through its activities, MPTE is identifying best practices in each of these areas, and how they can be fully implemented, integrated, and sustained within Massachusetts. The project is advancing these best practices through development of policy and guidance documents, development and dissemination of materials for a wide range of stakeholders, and training and technical assistance. 
 
