@@ -4,7 +4,7 @@ layout: default
 ---
 
 
-##About
+## About
 The Massachusetts Partnership for Transition to Employment (MPTE) is a systems-change project of the Massachusetts Department of Developmental Services. The project is designed to improve employment outcomes for individuals with intellectual and developmental disabilities transitioning from school to adult life. 
 
 MPTE is funded through September 2021 by a 5-year federal grant from the Administration on Intellectual and Developmental Disabilities. 
