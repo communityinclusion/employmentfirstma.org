@@ -26,7 +26,7 @@ Email: <a href="mailto:cindy.thomas@umb.edu">cindy.thomas@umb.edu</a>
 
 For more information about the Department of Developmental Services Employment First Policy and the Blueprint for Success contact:
 
-**Margaret Van Gelder*  
+**Margaret Van Gelder**  
 Department of Developmental Services  
 500 Harrison Avenue  
 Boston, MA Voice: (617) 624-7764  
