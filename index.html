@@ -11,10 +11,10 @@ layout: default
                                     <img src="img/slider/Group-Photo.jpg" style="width:100%;" alt="Group Photo">
                                     <div class="carousel-caption d-none d-md-block">
                                      
-                                        <h4>Connect with your Employment Collaborative!</h4>
-                                        <p>Massachusetts has 6 regional employment collaboratives working with community providers and businesses to help them match job opportunities with qualified applicants with disabilities.</p>
+                                        <h5>Connect with your Employment Collaborative!</h5>
+                                        <p>Massachusetts has 6 regional employment collaboratives working with community providers and businesses to help them match job opportunities with qualified applicants with disabilities. <br><b><a href="http://employmentfirstma.org/rec.html">Learn more and connect</a></b></p>
                                         
-                                        <p><b><a href="http://employmentfirstma.org/rec.html">Learn more and connect</a></b></p>
+                                       
                                         
                                         
                                         
@@ -25,10 +25,8 @@ layout: default
                                         <img src="/img/slider/Genni.jpg" style="width:100%;" alt="Genni">
                                         <div class="carousel-caption d-none d-md-block">
                                          
-                                            <h4>Want to build your provider organization’s employment capacity? We can help!</h4>
-                                            <p>We support provider organizations through technical assistance in the areas of employment and community-based day supports. Our TA is customized to the needs of the provider.  Call ICI to talk more about your needs</p>
-                                              
-                                            <p><b><a href="mailto:cindy.thomas@umb.edu">Contact Cindy for more information</a></b></p>
+                                            <h5>Want to build your provider organization’s employment capacity? We can help!</h5>
+                                            <p>We support provider organizations through technical assistance in the areas of employment and community-based day supports. Our TA is customized to the needs of the provider. <br><b><a href="mailto:cindy.thomas@umb.edu">Contact Cindy for more information</a></b></p>
                                             
                                         </div>
                                       </div>
@@ -37,9 +35,7 @@ layout: default
                                         <div class="carousel-caption d-none d-md-block">
                                          
                                             <p>ICI can help you develop a qualified and skilled workforce
-                                            ICI offers a range of training opportunities to help direct support professionals develop the skills and competencies needed to achieve great outcomes.</p>
-                                            
-                                            <p><b>Learn more: </b></p>
+                                            ICI offers a range of training opportunities to help direct support professionals develop the skills and competencies needed to achieve great outcomes.<br><a href="#tr"><b>Learn more</b></a> </p>
                                             
                                         </div>
                                       </div>
@@ -57,29 +53,13 @@ layout: default
 
     </div>
     <div class="col-4">
-            <!--<div class="card" style="">
-                    
-                    <div class="card-body">
-                      <h4 class="card-title">Upcoming Events <i class="fa fa-calendar" aria-hidden="true"></i>
-                      </h4>
-                      <p class="card-text">Click the event to read more and register</p>
-                    </div>
-                    <ul class="list-group list-group-flush">
-                      <li class="list-group-item">A cool Webinar</li>
-                      <li class="list-group-item">do this training online</li>
-                      <li class="list-group-item">Hello hello</li>
-                    </ul>
-                    <div class="card-body">
-                      <a href="#" class="card-link">view more</a>
-                     
-                    </div>
-                  </div>-->
+            
                   <div class="card" style="">
                     
                     <div class="card-body">
-                      <a class="twitter-timeline"  href="https://twitter.com/hashtag/emp1ma" data-widget-id="988430852999741440">#emp1ma Tweets</a>
-                      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-                    
+                        <a class="twitter-timeline"  href="https://twitter.com/hashtag/emp1ma" data-widget-id="988430852999741440">#emp1ma Tweets</a>
+                        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+                      
                      
                     </div>
                   </div>
@@ -88,7 +68,6 @@ layout: default
                   
     </div>
   </div>
-
 
   <div class="row">
         <div class="col-8">
@@ -108,7 +87,7 @@ layout: default
                 <div class="card" style="">
                         
                         <div class="card-body">
-                        
+                        <h4>MPTE</h4>
                           <p class="card-text blue">The Massachusetts Partnership for Transition on to Employment (MPTE) is a five-year project to improve labor market participation on for youth and young adults served by the Massachusetts Department of Developmental Services (DDS).</p>
                        
                           <a href="/pages/mpte.html" class="card-link">Learn more>></a>
@@ -118,6 +97,9 @@ layout: default
                       </div>
         </div>
   </div>
+  <hr id="tr">
+
+  {% include tr-index.html %}
   <script>
     if (window.netlifyIdentity) {
       window.netlifyIdentity.on("init", user => {
