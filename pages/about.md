@@ -6,7 +6,7 @@ layout: default
 
 **Employment First** is a framework for systems change that promotes the idea that all people, with and without disabilities, are able to fully participate in competitive, integrated employment and community life.  
 
-**Employment First MA** is hosted by the Institute for Community Inclusion (ICI) at the University of Massachusetts Boston and is funded by the Massachusetts Department of Developmental Services (DDS). <i>This site was developed to support the implementation of DDS’s Employment First policy and the Blueprint for Success: Employing Individuals with Intellectual Disabilities in Massachusetts<i>.   
+**Employment First MA** is hosted by the Institute for Community Inclusion (ICI) at the University of Massachusetts Boston and is funded by the Massachusetts Department of Developmental Services (DDS). This site was developed to support the implementation of DDS’s Employment First policy and the <i>Blueprint for Success: Employing Individuals with Intellectual Disabilities in Massachusetts<i>.   
 
 To assist providers with the transformation from center-based work to work in the community, the ICI, with funding from DDS, provides training, technical assistance, and access to a wide range of tools and resources that support the Blueprint.  
 
