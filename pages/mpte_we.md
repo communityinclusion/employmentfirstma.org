@@ -6,4 +6,5 @@ One of the 4 focus areas of MPTE is ensuring that youth and young adults with in
 
 To accomplish this, MPTE is developing guidance and best practice indicators, so that a) individuals with intellectual and developmental disabilities are supported in typical individualized youth work experiences while in school, b) service providers that assist individuals to gain work experience are fully inclusive of young people with intellectual and developmental disabilities, and c) individuals have full access and necessary supports to succeed in postsecondary education that enhances their skills for in-demand professions.
 
+<img src="/img/MPTE_logo.png" alt="MPTE" class="img-fluid" style="max-width:250px;">
 
