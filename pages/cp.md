@@ -11,7 +11,7 @@ This packet consists of a series of information-gathering tools to be used in co
 **<a href="/files/PositivePersonalProfile_Transcen.pdf">Positive Personal Profile (PPP)</a>**  
  Developed by Dr. George Tilson from TransCen, Inc., the PPP process is another option for gathering relevant career planning information. This article provides comprehensive instructions about how to use this tool and includes the related worksheets that are involved.
 
-**<a href="http://www.ddrb.org/pics/db/planning/48_48_Career_Discovery_Guide__Color[1].pdf">Career Planning Guide: A Guide for Career Discovery</a>**  
+**<a href="https://www.ddrb.org/developmental-disability-resources-st-charles/step-by-step-guides/48_48_career_discovery_guide__color1-1/">Career Planning Guide: A Guide for Career Discovery</a>**  
 This workbook by the Missouri Planning Council For Developmental Disabilities will take the job seeker and his or her support team through the career planning process. It contains information, conversation starters and forms to generate ideas and set clear action steps toward a great job match.
 
 

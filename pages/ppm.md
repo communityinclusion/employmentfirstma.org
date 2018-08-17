@@ -3,7 +3,7 @@ title: "Program Development & Management"
 layout: tr
 ---
 
-[Ensuring Excellence in Community-Based Day Supports:  A Guide for Service Provider and Staff](files/DDS_CBDS_web_F.pdf)  
+[Ensuring Excellence in Community-Based Day Supports:  A Guide for Service Provider and Staff](/files/DDS_CBDS_web_F.pdf)  
 Written by ICI’s David Hoff and consultants Cori Di Biase and Genni Sasnett, this tool is a great resource for providers seeking to develop or enhance their CBDS program.
 
 
