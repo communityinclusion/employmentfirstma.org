@@ -1,6 +1,7 @@
 ---
 title: "Massachusetts Partnership for Transition to Employment"
 layout: default
+permalink: /mpte/
 ---
 
 <img src="/img/MPTE_logo.png" alt="MPTE" class="img-fluid" style="max-width:250px;float:left; padding-right: 2em;">
