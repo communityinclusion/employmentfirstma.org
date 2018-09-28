@@ -82,4 +82,6 @@ ornange
     opacity: 0.6;
     filter: alpha(opacity=60);
   }
-  .carousel-caption h4 {color:white;}
+  .carousel-caption h4 {color:white; margin-bottom:0px; padding-bottom:0px;}
+
+  .carousel-caption, .d-none, .d-md-block {padding-top: 0px; padding-bottom:0px; margin-top: 0px; margin-bottom:0px;}
