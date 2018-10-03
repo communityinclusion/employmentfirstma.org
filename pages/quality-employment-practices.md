@@ -34,22 +34,26 @@ Sometimes employment professionals think that person-centered career planning ha
 ">Supporting Individuals with Autism Spectrum Disorder: Quality Employment Practices</a>**\
 This ICI brief focuses on effective placement planning and assessment for job seekers with ASD.
 
-[**Teaching Networking Skills: Paving A Way to Jobs and Careers**](https://www.communityinclusion.org/article.php?article_id=251&type=topic&id=3)
+[**Teaching Networking Skills: Paving A Way to Jobs and Careers
+**](https://www.communityinclusion.org/article.php?article_id=251&type=topic&id=3)
 
 This curriculum is for trainers working with individuals with limited work experience. The goal of the curriculum is to help those job seekers to become engaged in career and job exploration through Networking. It is designed for professionals working with school-to-work transition-age youth, however it has broad applicability to others with limited work experience. This curriculum give students opportunities to practice and put into use networking skills such as: identifying their own network, approaching people, talking about their skills and interests, learning about what employers look for, exploring careers and job options, and exhibiting good business etiquette. Activities vary to accommodate diverse learning styles, and trainers can select lessons that fit the needs of their groups.
 
-[**Networking Phone Scripts**](www.employmentfirstma.org/files/networkingphonescript.doc)
+[**Networking Phone Scripts
+**](www.employmentfirstma.org/files/networkingphonescript.doc)
 
 This worksheet provides suggestions about what to say when reaching out to network connections to gather career-related information.
 
-
-
-[**Networking Form**](www.employmentfirstma.org/files/networkingform.doc)
+[**Networking Form
+**](www.employmentfirstma.org/files/networkingform.doc)
 
 This form is organized into categories to help job seekers identify people in their network who may be able to provide useful information and/or referrals in regard to development of their personal profile, career exploration and/or job search opportunities.
 
-
-
-[**Networking: A Consumer Guide to an Effective Job Search**](https://www.communityinclusion.org/article.php?article_id=62&type=topic&id=3)
+[**Networking: A Consumer Guide to an Effective Job Search
+**](https://www.communityinclusion.org/article.php?article_id=62&type=topic&id=3)
 
 This ICI brief teaches job seekers with disabilities how to become more proactive in their job search.
+
+
+
+## Job Coaching
