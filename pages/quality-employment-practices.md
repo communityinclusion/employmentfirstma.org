@@ -4,6 +4,8 @@ title: Quality Employment Practices
 ---
 ## Career Planning
 
+_Many options exist for supporting people with disabilities to work in their communities. This page offers tools and guidelines that employment professionals and families can use to navigate the process of preparing for fulfilling work. _
+
 **<a href="/files/PersProfilePacket.doc">Personal Profile Packet</a>**\
 This packet consists of a series of information-gathering tools to be used in conjunction with a person-centered career planning process. The end result of these tools will result in a comprehensive personal profile of an individual. Guidance on how to implement these tools along with additional resources on Person Centered-Planning is also included.
 
@@ -54,6 +56,58 @@ This form is organized into categories to help job seekers identify people in th
 
 This ICI brief teaches job seekers with disabilities how to become more proactive in their job search.
 
-
-
 ## Job Coaching
+
+_Once a person with a disability has been hired, the goal is to support them to thrive and grow in their job. These resources offer practical tips for helping people on the job. Topics include understanding workplace culture and solving transportation problems._
+
+[**Building Friendships at Work**](https://employmentfirstma.org/files/FRIENDSHIPS_AT_WORK_TOOLKIT.pdf)
+
+This toolkit for employment specialists, job developers and job coaches can help you take better advantage of opportunities to facilitate friendships at work for those you support.
+
+
+
+[**Employment Specialist Toolbox Fact Sheet**](<http://employmentfirstma.org/files/ES Toolkit Factsheet-D2.doc>)
+
+This fact sheet explains the array of tools and strategies that are key to the employment specialist / job coach role.
+
+
+
+[**Natural Supports and Social Inclusion Fact Sheet**](http://employmentfirstma.org/files/NatSup-SocIncl_factsht_revJuly2015.docx)
+
+This fact sheet expounds on the meaning and significance of natural supports and social inclusion and offers tips to employment staff on how to engage employers and coworkers in facilitating employment success.
+
+
+
+[**Workplace Inclusion Checklist**](http://employmentfirstma.org/files/Workplace_InclusionChecklis.doc)
+
+This document provides a list of activities, routines, and rituals that are typically available at a workplace and that can serve as catalysts for facilitation of natural supports and social inclusion.
+
+
+
+[**Assessing Workplace Culture Fact Sheet**](<http://employmentfirstma.org/files/Assess_Workplace Culture FactSht.doc>)
+
+This fact sheet emphasizes assessment of workplace culture as a vehicle for developing natural supports and social inclusion, and advises employment staff about what to look for in this situation.
+
+
+
+[**Workplace Culture Survey**](<http://employmentfirstma.org/files/Workplace_Cult_ Survey.doc>)
+
+This is a comprehensive and formal tool for use in closely analyzing a workplace for natural supports and workplace inclusion potential. Instructions on how to administer this tool are included.
+
+
+
+[**Placement Support Plan Form**](http://employmentfirstma.org/files/PlcmntSupprtPlan.doc)
+
+This form provides a collaborative format in which to identify and coordinate what types of assistance the job seeker will need following job placement, including who will provide which supports.
+
+
+
+[**Working with Individuals with Challenging Behaviors: A Problem Solving Guide**](http://employmentfirstma.org/files/Challng_Behavior_Guide.pdf)
+
+This fact sheet offers a framework to understand and work through challenging behaviors. Interpreting what the behavior is communicating, seeking a functional analysis, and generating alternative solutions are part of this process.
+
+
+
+[**Job Coach Self-Evaluation Checklist**](<http://employmentfirstma.org/files/JC Self eval.doc>)
+
+This tool provides a checklist of questions for employment staff to reflectively evaluate their job coaching style and skills at a particular job site.
