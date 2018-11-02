@@ -50,10 +50,21 @@ layout: default
                       <span class="sr-only">Next</span>
                     </a>
                   </div>
-
+                  <div class="container blue">
+                      <h2>We Believe</h2>
+                      <ul class="lead">
+                      <li>Everyone can work.</li>
+                      <li>Everyone has the right to earn a living wage in a job of their choosing,
+                      based on their unique talents, gifts, skills, and interests.</li>
+                       <li>Employment is a way for people to achieve their personal dreams of success, respect, control, and choice.</li>
+                      <li>Having a job can be an important part of one’s self-identity and value in society today.</li>
+                      <li>Everyone should be paid at least minimum wage.</li>
+                      </ul>
+                  </div>
     </div>
     <div class="col-4">
-            
+      <div class="jc_bttn">
+            <p><a href="#tr_table"><center><i class="fas fa-arrow-alt-circle-down"></i> See our current trainings <i class="fas fa-arrow-alt-circle-down"></i></center></a></p></div>
         <div class="card" style="">
                         
             <div class="card-body">
@@ -71,27 +82,11 @@ layout: default
     </div>
   </div>
 
-  <div class="row">
-        <div class="col-8">
-            <div class="container blue">
-                <h2>We Believe</h2>
-                <ul class="lead">
-                <li>Everyone can work.</li>
-                <li>Everyone has the right to earn a living wage in a job of their choosing,
-                based on their unique talents, gifts, skills, and interests.</li>
-                 <li>Employment is a way for people to achieve their personal dreams of success, respect, control, and choice.</li>
-                <li>Having a job can be an important part of one’s self-identity and value in society today.</li>
-                <li>Everyone should be paid at least minimum wage.</li>
-                </ul>
-            </div>
-        </div>
-        <div class="col-4">
-               
-        </div>
-  </div>
+
   <hr id="tr">
 
   {% include tr-index.html %}
+  
   <script>
     if (window.netlifyIdentity) {
       window.netlifyIdentity.on("init", user => {

@@ -85,3 +85,16 @@ ornange
   .carousel-caption h4 {color:white; margin-bottom:0px; padding-bottom:0px;}
 
   .carousel-caption, .d-none, .d-md-block {padding-top: 0px; padding-bottom:0px; margin-top: 0px; margin-bottom:0px;}
+
+
+.pipes {border-left: 1px solid lightgray; border-right: 1px solid lightgray;}
+
+
+#tr_table.container span div.row.tr div.col {padding-top: 1em;}
+
+#tr_table.container span div.row.tr div.pipes {padding-top: 1em;}
+
+
+.tr {border: lightgray 1px solid; box-shadow: 2px 10px 8px -6px grey; margin-bottom: 1em;}
+
+.jc_bttn {padding: 1em; margin-bottom:1em; border: #3377B7 1px solid; font-size: larger; }

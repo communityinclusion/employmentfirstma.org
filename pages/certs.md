@@ -19,3 +19,5 @@ ACRE has embraced and expanded upon the APSE competencies. ACRE focuses on curri
 ACRE is a membership organization, and offers curriculum review to its members. It awards certificates of achievement to individuals who complete a minimum of 40 hours of training (and fieldwork) provided by an ACRE-approved training resource.  
 
 ACRE also maintains a certificate registry, which lists the professionals who complete the ACRE-approved training by name, certificate type, state, and year of training. To view all approved ACRE training providers, see [http://www.acreducators.org/find-training-providers](http://www.acreducators.org/find-training-providers).
+
+ICI and DDS have partnered to offer you the option to achieve the National ACRE certificate.  If you are interested in pursuing this option please <a href="/files/ACRE_DDS Agreement_online.doc">download and complete this form</a>.  You can also contact Lara Enein-Donovan at <a href="mailto:lara.eneindonovan@umb.edu">lara.eneindonovan@umb.edu</a> with any questions.
