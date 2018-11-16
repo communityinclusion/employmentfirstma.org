@@ -52,6 +52,7 @@ html {
   li.nav-item a.nav-link.teal {color:white; background-color:#00A6A5;}
   li.nav-item a.nav-link.teal:hover {color: white;}
   #navbarDropdown.bluey {background-color: #3976B8; color:white;}
+  .lilright {padding-left:3em;}
 }
   
   /* Large devices (desktops, 992px and up) */

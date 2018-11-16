@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: tr
 title: Transition from School to Work
 ---
 The following resources describe initiatives that helped individuals with disabilities transition from educational settings to competitive, integrated employment. 

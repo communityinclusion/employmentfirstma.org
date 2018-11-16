@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: tr
 title: Community-Based Day Supports
 ---
 Community-based day supports enhance opportunities for individuals with disabilities to fully engage in social and community life activities. These supports focus building skills that lead to community-based integration and employment for individuals with disabilities.  
