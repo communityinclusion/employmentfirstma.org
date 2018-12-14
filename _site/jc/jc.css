@@ -66,7 +66,8 @@ html {
 footer  a {color:white;}
 footer h3 {color:white;}
 footer h4 {color:white;}
-footer ul { list-style: none; /* Remove list bullets */ 
+footer ul { list-style: none;} /* Remove list bullets */ 
+footer a:hover {}
 
   /* SIDE MENUS
 ornange  
