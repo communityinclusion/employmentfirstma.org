@@ -62,10 +62,11 @@ html {
   }
 
   .padb {padding-bottom:4em;}
-  footer { padding:2em;  background-color:#3377B7; color: white; font-size: smaller; }
+  footer { padding:2em;  background-color:#3377B7; color: white;  }
 footer  a {color:white;}
 footer h3 {color:white;}
 footer h4 {color:white;}
+footer ul { list-style: none; /* Remove list bullets */ 
 
   /* SIDE MENUS
 ornange  
