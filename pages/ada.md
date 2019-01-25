@@ -4,7 +4,7 @@ title: Policy and Law
 ---
 _The Americans with Disabilities Act, or ADA, is an essential piece of civil rights legislation. Learn more about what the ADA requires of employers and job seekers, as well as policies and laws affecting employees with disabilities, employers, and employment service agencies._
 
-[**Volunteering, Internships, and Unpaid Work Experiences: Legal and Practical Guidelines**](https://employmentfirstma.org/files/DDSVolunteer-Unpaid_Work-Feb17.pdf)
+[**Volunteering, Internships, and Unpaid Work Experiences: Legal and Practical Guidelines**](https://employmentfirstma.org/files/DDSVolunteer-Unpaid_Work-Feb17.pdf)
 
 This publication examines these issues, and provides guidelines on the role of volunteer activities, internships and unpaid work when assisting and supporting individuals with disabilities. (Policy and Law/CBDS)
 
@@ -30,7 +30,7 @@ Cornell University developed this brief overview, which summarizes new features 
 
 This document lists a variety of state and national resources offering legal assistance, information and/or advocacy around ADA related issues and discrimination.
 
-[**WIA IS NOW WIOA: What the New Bill Means for People with Disabilities**](https://www.communityinclusion.org/article.php?article_id=382)
+[**WIA IS NOW WIOA: What the New Bill Means for People with Disabilities**](https://www.communityinclusion.org/article.php?article_id=382)
 
 This ICI brief outlines the features of the Workforce Innovation and Opportunity Act (WIOA), which reauthorizes the Workforce Investment Act of 1009, including the Rehabilitation Act, through 2020.
 
@@ -38,28 +38,24 @@ This ICI brief outlines the features of the Workforce Innovation and Opportunity
 
 **WIOA Resources - Section 511, Subminimum Wage Policy**
 
-•	[PowerPoint handout from 11/7/16 WIOA Restrictions on Subminimum Wage webinar
-](http://employmentfirstma.org/files/Section_511_PowerPoint.pdf)
+•	[PowerPoint handout from 11/7/16 WIOA Restrictions on Subminimum Wage webinar](http://employmentfirstma.org/files/Section_511_PowerPoint.pdf)
 
 •	[DOL Wage and Hour Division Letter ](http://employmentfirstma.org/files/Section_511-Wage_and_Hour_Letter.pdf)
 
-•	[DOL Wage and Hour Division Bulletin 
-](http://employmentfirstma.org/files/Section_511-Wage_and_Hour_Bulletin.pdf)
+•	[DOL Wage and Hour Division Bulletin ](http://employmentfirstma.org/files/Section_511-Wage_and_Hour_Bulletin.pdf)
 
-•	[DOL Wage and Hour Fact Sheet
-](http://employmentfirstma.org/files/Section_511-Wage_and_Hour_Fact_Sheet.pdf)
+•	[DOL Wage and Hour Fact Sheet](http://employmentfirstma.org/files/Section_511-Wage_and_Hour_Fact_Sheet.pdf)
 
-•	[Section 511 Regulations
-](http://employmentfirstma.org/files/Section_511_Regulations.pdf)
+•	[Section 511 Regulations](http://employmentfirstma.org/files/Section_511_Regulations.pdf)
 
 
 
-[**Blueprint for Success: Employing Individuals with Intellectual Disabilities in Massachusetts**](http://www.massachusettsapse.org/PDF/DDSBlueprint.pdf)
+****[**Blueprint for Success: Employing Individuals with Intellectual Disabilities in Massachusetts**](http://www.massachusettsapse.org/PDF/DDSBlueprint.pdf)
 
 In November 2013, MA DDS, the Association of Developmental Disability Providers, and the ARC of MA released a plan aligned with the Employment First Policy. The plan aims to phase out sheltered workshops and to increase integrated employment opportunities for people with intellectual disabilities. Goals and milestones have been targeted over four fiscal years.
 
 
 
-[**Employment First Policy, MA Department of Developmental Services (DDS)**](http://www.mass.gov/eohhs/gov/laws-regs/dds/policies/s-employment-first-policy-2010-2.html)
+[**Employment First Policy, MA Department of Developmental Services (DDS)**](http://www.mass.gov/eohhs/gov/laws-regs/dds/policies/s-employment-first-policy-2010-2.html)
 
 Passed in July 2010, this policy establishes that for working age adults served by the Massachusetts DDS, integrated, individual employment is the preferred service option and optimal outcome.
