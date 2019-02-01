@@ -13,7 +13,7 @@ To accomplish this, MPTE is working to ensure that families have clear and consi
 <h2  style="clear:both;padding-top:1em;">Related Briefs</h2>
 <hr>
 <a href="/files/getfacts_1_F.pdf"><img src="/img/getfacts_1_F_th.png" alt="Download get the facts brief" class="float-left">
-<h5>Transition to Employment: Get the Facts #1</h5>
+<h5><a href="/files/getfacts_1_F.pdf">Transition to Employment: Get the Facts #1</a></h5>
 
 <p> This fact sheet provides key tips for how to achieve competitive integrated employment even if you need job supports on an ongoing basis.</p>
 <hr style="clear:both">
