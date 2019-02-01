@@ -9,7 +9,16 @@ One of the 4 focus areas of MPTE is consistent parental and family support for c
 
 To accomplish this, MPTE is working to ensure that families have clear and consistent information regarding best practices in employment; that families know how to make the most of the transition process to prepare their family member for career success; and that families are aware of how to use and manage the resources available to support access to competitive integrated employment, both while the individual is in school, and after they leave school. 
 
-<h2 style="clear:all; padding-top:1em;">Related Webinars</h2>
+
+<h2  style="clear:both;padding-top:1em;">Related Briefs</h2>
+<hr>
+<a href="/files/getfacts_1_F.pdf"><img src="/img/getfacts_1_F_th.png" alt="Download get the facts brief" class="float-left">
+<h5>Transition to Employment: Get the Facts #1</h5>
+
+<p> This fact sheet provides key tips for how to achieve competitive integrated employment even if you need job supports on an ongoing basis.</p>
+<hr style="clear:both">
+
+<h2  style="clear: both; padding-top:1em;">Related Webinars</h2>
 <hr>
 
 
