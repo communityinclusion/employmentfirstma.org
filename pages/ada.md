@@ -63,6 +63,6 @@ In November 2013, MA DDS, the Association of Developmental Disability Providers,
 
 
 
-[**Employment First Policy, MA Department of Developmental Services (DDS)**](http://www.mass.gov/eohhs/gov/laws-regs/dds/policies/s-employment-first-policy-2010-2.html)
+[**Employment First Policy, MA Department of Developmental Services (DDS)**](/files/employmentFirst_policy.pdf)
 
 Passed in July 2010, this policy establishes that for working age adults served by the Massachusetts DDS, integrated, individual employment is the preferred service option and optimal outcome.
