@@ -49,19 +49,19 @@ A few challenges for these partnerships have been:
 
 ### For More Information
 
-Rick Hawes, Director\
-Berkshire County Arc\
-rhawes@bcarc.org\
+Rick Hawes, Director  
+Berkshire County Arc  
+rhawes@bcarc.org  
 413-443-1038
 
-Cindy Dinan,\
-Director of Student Services\
-Lenox Public Schools\
-shanson@lenoxps.org\
+Cindy Dinan,  
+Director of Student Services  
+Lenox Public Schools  
+shanson@lenoxps.org  
 413-637-5571
 
-Jennifer Sullivan Sulewski,\
-Research Associate\
-Institute for Community Inclusion\
-jennifer.sulewski@umb.edu\
+Jennifer Sullivan Sulewski, 
+Research Associate  
+Institute for Community Inclusion  
+jennifer.sulewski@umb.edu  
 617-287-4356

@@ -4,11 +4,11 @@ layout: default
 ---
 
 
-##Background
+## Background
 
 KP Links is a transition program at King Philip Regional High School in Wrentham, MA. It is designed for students with disabilities ages 18-22 who have already attended high school for at least four years. The program, which uses a combination of classroom instruction and community experiences, is focused on developing students' employment experiences, community connections, and independent living skills. Designed in 2007-2008, the program was piloted in the 2008-2009 school year and is now in its fifth year of implementation (2012-13). 
 
-##Implementation
+## Implementation
 
 The programming at KP Links is individually oriented, with a focus on students' goals. Students who start out with a clear sense of their interests and goals move quickly into finding work experiences. Others may participate in job shadowing, interest assessments, and internships to explore different options. 
 
@@ -31,9 +31,9 @@ Impact
 
 The major impact of the KP Links program is on students. Most students gain some work experience in the community, even if it's just exploratory or volunteer work. Students have built their resumes, developed interview skills, improved their work skills, and learned about work culture. Several have held paid positions while in school. In contrast, before the KP Links program was started, students in this age group were either in out of district placements or still participating in a classroom-only program at the high school. 
 
-##Suggestions for Replication
+## Suggestions for Replication
 
-###Suggestions for schools who want to establish a similar program:
+### Suggestions for schools who want to establish a similar program:
 	
 - Do the research on best practices and what works for successful transitions. Some resources to start with are: 
 	- The National Secondary Transition and Technical Assistance Center website at www.nsttac.org 
@@ -48,7 +48,7 @@ The major impact of the KP Links program is on students. Most students gain some
 	- A Transition Coordinators Group meets regularly in Dedham, MA. For more information, contact Jill Curry: Jill Curry at: jill_curry@newton.k12.ma.us. Note that this group is for full-time transition coordinators working in public or collaborative school settings only - others interested in transition issues should contact the DCDT group listed below. 
 	- The Council for Exceptional Children's Division on Career Development and Transition has a regional group that meets in Boston. For more information contact Stelios Gragoudas at stelios.gragoudas@umb.edu or 617-287-4322. 
 
-##For More Information
+## For More Information
 
 Elena Varney, Transition Coordinator  
 King Philip Regional High School  

@@ -3,11 +3,11 @@ title: "Multiple Options for Transition from School to Work: Community Enterpris
 layout: default
 --- 
 
-##Background 
+## Background 
 
 Community Enterprises' Holyoke, MA office partners with about 10 Holyoke-area school systems in providing transition services to high school students with developmental disabilities. Community Enterprises has done outreach to area special education directors to promote its services, while some connections with schools have developed through word of mouth. For example, for this publication we interviewed the superintendent of the West Springfield Public Schools, which started working with Community Enterprises after its special education director heard about Community Enterprises from another director in the same special education collaborative.
 
-##Implementation
+## Implementation
 
 Community Enterprises' transition programs help local students access employment opportunities while still in high school:
 
@@ -23,14 +23,14 @@ Community Enterprises' transition services bridge the gap between school and adu
 - Collaborates with the IEP team, including school staff and DDS transition coordinators, to create a seamless transition when the student enters adult services
 - Makes referrals to Social Security, MassHealth, benefits planning resources, and the local Independent Living Center
 
-##Impact
+## Impact
 
 Community Enterprises' transition programs help students access more employment opportunities while still in high school. For example, prior to working with Community Enterprises, West Springfield High School did not have any students employed while they were still in school; students remained in the high school setting until age 22. Now, every student has at least some paid employment experience before leaving high school. In addition, the partnership has enabled students (particularly students ages 18-21) to get out of the school building and participate in other settings in the community. As the West Springfield superintendent stated, "The change of setting is key."
 
 
 In addition, the programs have led to better employment outcomes after school. For example, in 2010, 14 students in the ASSET and Transition programs found jobs with support from Community Enterprises. In addition, students have gained independence, and their families have received guidance in navigating the transition process.
 
-##Suggestions for Replication
+## Suggestions for Replication
 
 For schools:
 
@@ -39,7 +39,7 @@ For schools:
 - Develop clear lines of communication for your partnership, and strategies for handling challenges. Ongoing communication and problem solving can keep small challenges from becoming larger problems.
 - If you're not satisfied with the provider you're working with, keep looking. West Springfield started working with Community Enterprises after being dissatisfied with another service provider, and the switch has been beneficial.
 
-##For service providers:
+## For service providers:
 
 - Market your organization as a transition resource. Schools are more focused on transition these days, but don't always have the capacity to support students in the transition to work and adult life. There is a place for you in bridging that gap.
 - Be clear about your organization's strengths, and connect with schools around those. Community Enterprises has been successful with students whose support needs were well-matched to the organization's existing capacity, but has struggled in situations where the needs of the student or the services required were outside its usual area of expertise.
