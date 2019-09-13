@@ -67,7 +67,7 @@ footer  a {color:white;}
 footer h3 {color:white;}
 footer h4 {color:white;}
 footer ul { list-style: none;} /* Remove list bullets */ 
-footer a:hover {}
+footer a:hover { color:white;}
 
   /* SIDE MENUS
 ornange  
