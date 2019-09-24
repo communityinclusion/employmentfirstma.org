@@ -52,7 +52,11 @@ organizations:
 For further information on MPTE, please contact Margaret Van Gelder at the Department of Developmental Services: <a
     href="mailto:Margaret.VanGelder@MassMail.State.MA.US">Margaret.VanGelder@MassMail.State.MA.US</a>; 617-624-7764.
 
-### Download MPTE flyer
-<p>
-    <a href="/files/MTPE_flyer.pdf"><img src="/img/MTPE_flyer_th.png" alt="download the MPTD flyer"></a>
-</p>
+
+<h2  style="clear:both;padding-top:1em;">Related Briefs</h2>
+<hr>
+
+ <a href="/files/MTPE_flyer.pdf"><img src="/img/MTPE_flyer_th.png" alt="download the MPTD flyer" class="float-left"></a>
+<h3><a href="/files/MTPE_flyer.pdf">Download the MTPE flyer</a></h3>
+<p>Download an informational PDF introducing the The Massachusetts Partnership for Transition to Employment (MPTE) and its ongoing work is.</p>
+<hr style="clear:both">
