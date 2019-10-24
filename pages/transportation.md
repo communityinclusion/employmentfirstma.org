@@ -15,3 +15,5 @@ This packet contains a variety of tools to assist with safe and comprehensive tr
 <p><b><a href="/files/community_transportation_F.pdf">Community Transportation for Transition-Aged Youth with Disabilities</a></b>
 <br>This one-page brief provides a variety of ideas and resources to assist youth with disabilities to identify transportation options for employment and other activities.</p>
 
+<p><b><a href="/files/Travel-Training-Resources-2019.docx">Travel Training Resources</a></b><br>
+Description: In many local areas, transportation instruction is available through a variety of organizations such as transit systems, transportation service providers, independent living centers, disability programs, and others.</p>
