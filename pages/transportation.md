@@ -84,4 +84,3 @@ In many local areas, transportation instruction is available through a variety o
 <li>Subscribe to the MassMobility newsletter to learn about new developments in community transportation in Massachusetts&nbsp;<a href="https://nam01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.mass.gov%2Fmassmobility-newsletter&amp;data=02%7C01%7CDeBrittany.Mitchell%40umb.edu%7Cf96bf33d054a42c09b1908d73b830721%7Cb97188711ee94425953c1ace1373eb38%7C0%7C0%7C637043306822678122&amp;sdata=UQD%2FdrkKyq7Akw2nHyBEz9yOeBL6WOWBHvTkbbsUEVE%3D&amp;reserved=0">www.mass.gov/massmobility-newsletter</a></li>
 </ul>
 </ul>
-<p>Prank sombody with the <a href="https://geekprank.com/win10-update/">fake Windows 10 upgrade screen</a> which never ends. Open the site in a web browser and go full screen with the F11 key.</p>
