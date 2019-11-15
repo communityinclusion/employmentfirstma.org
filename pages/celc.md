@@ -4,7 +4,7 @@ title: Customized Employment Learning Community
 permalink: celc
 ---
 <div class="alert alert-info" role="alert"><strong>
-Application Deadline: November 15, 2019</strong></div>
+Application Deadline: November 20, 2019</strong></div>
 <a class="btn btn-primary" href="https://umassboston.qualtrics.com/jfe/form/SV_bl3QChNmgMB6ytD" role="button">Apply Now</a>
 
 <h2>Everyone is talking about Customized Employment, but do you really understand what it is and how to put it into practice?</h2>
@@ -37,6 +37,6 @@ Application Deadline: November 15, 2019</strong></div>
 <p>Lara Enein-Donovan | <a href="mailto:Lara.eneindonovan@umb.edu ">Lara.eneindonovan@umb.edu</a><br>
 Cindy Thomas | <a href="Cindy.thomas@umb.edu">Cindy.thomas@umb.edu</a></p>
 
-<h3>Interested participants must submit their online application by Friday, November 15.</h3>
+<h3>Interested participants must submit their online application by Wednesday, November 20.</h3>
 <a class="btn btn-primary" href="https://umassboston.qualtrics.com/jfe/form/SV_bl3QChNmgMB6ytD" role="button">Apply Now</a>
 <p><strong><i>A maximum of 25 people will be accepted for this unique training and professional development opportunity.</i></strong></p>
