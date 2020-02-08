@@ -1,6 +1,7 @@
 ---
 title: "Regional Employment Collaboratives"
 layout: default
+permalink: /rec/
 ---
 
  
