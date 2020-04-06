@@ -52,7 +52,7 @@ This ICI brief teaches job seekers with disabilities how to become more proactiv
 
 _Once a person with a disability has been hired, the goal is to support them to thrive and grow in their job. These resources offer practical tips for helping people on the job. Topics include understanding workplace culture and solving transportation problems._
 
-[**Building Friendships at Work**](https://employmentfirstma.org/files/FRIENDSHIPS_AT_WORK_TOOLKIT.pdf)  
+[**Building Friendships at Work**](/files/FRIENDSHIPS_AT_WORK_TOOLKIT.pdf)  
 This toolkit for employment specialists, job developers and job coaches can help you take better advantage of opportunities to facilitate friendships at work for those you support.
 
 [**Employment Specialist Toolbox Fact Sheet**](<http://employmentfirstma.org/files/ES Toolkit Factsheet-D2.doc>)
