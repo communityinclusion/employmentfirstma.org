@@ -27,9 +27,9 @@ To accomplish this, MPTE is working to ensure that families have clear and consi
 <h5>For Families and Students</h5>
 
 <h4>ENGAGING DIVERSE FAMILIES IN YOUTH TRANSITION </h4>
-
+<div style="max-width:560px;">
 <script src="https://fast.wistia.com/embed/medias/vmxbcr0qxs.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_vmxbcr0qxs videoFoam=true" style="height:100%;position:relative;width:100%"><div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;"><img src="https://fast.wistia.com/embed/medias/vmxbcr0qxs/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" alt="" aria-hidden="true" onload="this.parentNode.style.opacity=1;" /></div></div></div></div>
-
+</div>
 <p><b>Description: </b></p>
 <p>This webinar identifies challenges and barriers culturally and linguistically diverse (CLD) families experience. It provides an overview of strategies for supporting and increasing partnerships between CLD families and professionals. The webinar is for professionals who serve youth and young adults with disabilities and are interested in changing systems and practices to improve employment outcomes for people with significant disabilities from low income and CLD communities.  </p>
 
