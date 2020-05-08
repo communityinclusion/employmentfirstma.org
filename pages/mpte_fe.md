@@ -26,6 +26,20 @@ To accomplish this, MPTE is working to ensure that families have clear and consi
 
 <h5>For Families and Students</h5>
 
+<h4>ENGAGING DIVERSE FAMILIES IN YOUTH TRANSITION </h4>
+
+<script src="https://fast.wistia.com/embed/medias/vmxbcr0qxs.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_vmxbcr0qxs videoFoam=true" style="height:100%;position:relative;width:100%"><div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;"><img src="https://fast.wistia.com/embed/medias/vmxbcr0qxs/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" alt="" aria-hidden="true" onload="this.parentNode.style.opacity=1;" /></div></div></div></div>
+
+<p><b>Description: </b></p>
+<p>This webinar identifies challenges and barriers culturally and linguistically diverse (CLD) families experience. It provides an overview of strategies for supporting and increasing partnerships between CLD families and professionals. The webinar is for professionals who serve youth and young adults with disabilities and are interested in changing systems and practices to improve employment outcomes for people with significant disabilities from low income and CLD communities.  </p>
+
+<p><b>Presented by: </b></p>
+
+<p><b>Ginger Kwan</b>: Executive Director of Open Doors for Multicultural Families, a grassroot family support organization focuses on serving, engaging, empowering and partnering with individuals with developmental/intellectual disabilities and their families from linguistically and culturally diverse communities in Seattle Washington.</p>
+<p>
+<b>Reehana Nisha</b>: Transition Program Lead at Open Doors for Multicultural Families. She has been with the organization as a Youth Program Coordinator for the past 1.5 years. Having worked with youths in transition and high school age, she has seen the challenges youth face when it comes to planning for their future.
+</p>
+
 <h4>Getting From Here to There: Transportation During the Transition Years</h4>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2apig2bJOEA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
