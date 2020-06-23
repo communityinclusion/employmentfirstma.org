@@ -5,7 +5,7 @@ title: Policy and Law
 _The Americans with Disabilities Act, or ADA, is an essential piece of civil rights legislation. Learn more about what the ADA requires of employers and job seekers, as well as policies and laws affecting employees with disabilities, employers, and employment service agencies._
 
 [**Social Enterprises and Agency-Owned Businesses: Guidelines for Providers**](/files/Social_enterprise_web_F.pdf)  
-This brief gives an overview of guidelines developed for the Department of Developmental Services (DDS) providers seeking to develop a social enterprise/agency-owned business that will employ individuals who receive employment supports from DDS. 
+This brief gives an overview of guidelines developed for the Department of Developmental Services (DDS) providers seeking to develop a social enterprise/agency-owned business that will employ individuals who receive employment supports from DDS.
 
 [**Volunteering, Internships, and Unpaid Work Experiences: Legal and Practical Guidelines**](https://employmentfirstma.org/files/DDSVolunteer-Unpaid_Work-Feb17.pdf)
 
