@@ -9,7 +9,7 @@ layout: default
 </p>
 <h2 style="clear:both; padding-top:1em;">Related Briefs</h2>
 <hr>
-<a href=""><img src="/img/community_transportation_F_th.png" alt="download Community Transportation for Transition-Aged Youth with Disabilities" class="float-left"></a>
+<a href=""><img src="/img/community_transportation_F_th.png" alt="download Community Transportation for Transition-Aged Youth with Disabilities" class="float-left" style="padding-right:1em;"></a>
 <h3><a href="/files/community_transportation_F.pdf">Community Transportation for Transition-Aged Youth with Disabilities</a></h3>
 <p>This one-page brief provides a variety of ideas and resources to assist youth with disabilities to identify transportation options for employment and other activities.</p>
 <hr style="clear:both">
