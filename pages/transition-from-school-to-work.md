@@ -8,9 +8,9 @@ The following resources describe initiatives that helped individuals with disabi
 
 This webpage provides resources and lessons learned from the implementation of various initiatives serving transition-age youth in Massachusetts on their path to employment.
 
-<h2>Cross Systems Collaboration</h2>
-
-<h2>Family Engagement</h2>
+<h2 id="csc">Cross Systems Collaboration</h2>
+<p>Content coming soon.</p>
+<h2 id ="fe">Family Engagement</h2>
 <a href="/files/getfacts_issue2_F.pdf"><img src="/img/getfacts_issue2_F_th.png" alt="Download get the facts brief #2" class="float-left">
 <h5><a href="/files/getfacts_issue2_F.pdf">Transition to Employment: Get the Facts #2</a></h5>
 
@@ -119,9 +119,9 @@ Fred Misilo leads this training on guardianship, alternatives to guardianship an
 <p>Frederick M. Misilo, Jr. is an attorney who concentrates his practice in special needs planning, elder law, trust and estate administration and service advocacy. Mr. Misilo is a member of the National Academy of Elder Law Attorneys and a charter member of the Academy of Special Needs Planners. Attorney Misilo has been deeply involved in disability issues throughout his career. Mr. Misilo worked in progressively responsible positions in community based services for individuals with intellectual and developmental disabilities. Mr. Misilo is also a Vice President of The Arc of The United States, Inc., and Chair of The Arc’s Public Policy and Positions Committee.</p>
 
 
-<h2>Self Determination and Self Advocacy</h2>
-
-<h2>Work Experiences</h2>
+<h2 id="sdsa">Self Determination and Self Advocacy</h2>
+<p>Content Coming Soon.</p>
+<h2 id="we">Work Experiences</h2>
 <a href=""><img src="/img/community_transportation_F_th.png" alt="download Community Transportation for Transition-Aged Youth with Disabilities" class="float-left" style="padding-right:1em;"></a>
 <h3><a href="/files/community_transportation_F.pdf">Community Transportation for Transition-Aged Youth with Disabilities</a></h3>
 <p>This one-page brief provides a variety of ideas and resources to assist youth with disabilities to identify transportation options for employment and other activities.</p>
