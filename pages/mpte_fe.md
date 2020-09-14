@@ -14,7 +14,7 @@ To accomplish this, MPTE is working to ensure that families have clear and consi
 <hr>
 <a href="/files/getfacts_issue3_F.pdf"><img src="/img/getfacts_issue3_F_th.png" alt="Download get the facts brief #3" class="float-left">
 <h5><a href="/files/getfacts_issue3_F.pdf">Transition to Employment: Get the Facts #3</a></h5>
-
+<p>This fact sheet defines what integrated, individual employment means according to policy and explores what Employment First means for youth and families in Massachusetts.</p>
 
 <hr style="clear:both">
 <a href="/files/getfacts_issue2_F.pdf"><img src="/img/getfacts_issue2_F_th.png" alt="Download get the facts brief #2" class="float-left">
