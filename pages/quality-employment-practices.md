@@ -48,7 +48,7 @@ This form is organized into categories to help job seekers identify people in th
 [**Networking: A Consumer Guide to an Effective Job Search**](https://www.communityinclusion.org/article.php?article_id=62&type=topic&id=3)
 This ICI brief teaches job seekers with disabilities how to become more proactive in their job search.
 
-<h2 id="jc">Job Coaching</h2>
+<h2 id="jc">Job Supports</h2>
 
 _Once a person with a disability has been hired, the goal is to support them to thrive and grow in their job. These resources offer practical tips for helping people on the job. Topics include understanding workplace culture and solving transportation problems._
 
