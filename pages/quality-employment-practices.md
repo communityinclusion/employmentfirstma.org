@@ -58,7 +58,7 @@ This toolkit for employment specialists, job developers and job coaches can help
 [**Employment Specialist Toolbox Fact Sheet**](<http://employmentfirstma.org/files/ES Toolkit Factsheet-D2.doc>)
 This fact sheet explains the array of tools and strategies that are key to the employment specialist/job coach role.
 
-[**Natural Supports and Social Inclusion Fact Sheet**]  (http://employmentfirstma.org/files/NatSup-SocIncl_factsht_revJuly2015.docx)
+[**Natural Supports and Social Inclusion Fact Sheet**](http://employmentfirstma.org/files/NatSup-SocIncl_factsht_revJuly2015.docx)
 This fact sheet expounds on the meaning and significance of natural supports and social inclusion and offers tips to employment staff on how to engage employers and coworkers in facilitating employment success.
 
 [**Workplace Inclusion Checklist**](http://employmentfirstma.org/files/Workplace_InclusionChecklis.doc)  
