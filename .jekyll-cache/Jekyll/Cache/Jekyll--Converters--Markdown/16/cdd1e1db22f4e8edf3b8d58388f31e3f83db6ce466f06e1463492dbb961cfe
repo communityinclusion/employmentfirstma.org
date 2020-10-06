@@ -1,16 +1,11 @@
----
-title: "MPTE - Self-Determination and Self-Advocacy"
-layout: default
----
-One of the 4 focus areas of MPTE is systematic development of self-determination and self-advocacy skills for youth with intellectual and developmental disabilities, with a focus on employment. 
+I"´<p>One of the 4 focus areas of MPTE is systematic development of self-determination and self-advocacy skills for youth with intellectual and developmental disabilities, with a focus on employment.</p>
 
-To accomplish this, MPTE is focusing on development of guidelines and materials to ensure that all individuals with intellectual and developmental disabilities fully understand their rights and responsibilities regarding employment, how to prepare in school for successful employment as adult, and how to advocate for employment assistance and supports that will result in a career that is reflective of their individual skills, interests, and choices. 
+<p>To accomplish this, MPTE is focusing on development of guidelines and materials to ensure that all individuals with intellectual and developmental disabilities fully understand their rights and responsibilities regarding employment, how to prepare in school for successful employment as adult, and how to advocate for employment assistance and supports that will result in a career that is reflective of their individual skills, interests, and choices.</p>
 <center>
-<img src="/img/MPTE_logo.png" alt="MPTE" class="img-fluid" style="max-width:250px;"></center>
+<img src="/img/MPTE_logo.png" alt="MPTE" class="img-fluid" style="max-width:250px;" /></center>
 
-
-  <!-- Stack the columns on mobile by making one full-width and the other half-width -->
-  <div class="row">
+<p><!-- Stack the columns on mobile by making one full-width and the other half-width --></p>
+<div class="row">
     <div class="col-md-6 "><div class="mx-auto card">
   <div class="card-body">
     <p class="h5"><a href="/files/MA_Employment_First_Policy_-_Summary.pdf">Employment First Policy â€“ What Does This Mean?</a></p>
@@ -22,8 +17,8 @@ To accomplish this, MPTE is focusing on development of guidelines and materials 
   </div>
 </div></div>
   </div>
-  <br>
-  <div class="row">
+<p><br /></p>
+<div class="row">
     <div class="col-md-6"><div class=" mx-auto card">
   <div class="card-body">
     <p class="h5"><a href="/files/Self-Advocate_Tips_for_Educators_-_Online_Learning.pdf">How Educators can Support Transition-age Students with Online Learning</a></p>
@@ -35,3 +30,4 @@ To accomplish this, MPTE is focusing on development of guidelines and materials 
   </div>
 </div></div>
   </div>
+:ET
