@@ -32,7 +32,7 @@ To accomplish this, MPTE is focusing on development of guidelines and materials 
 <a href="/files/Tip_for_advocating_when_returning_to_school_and_work.pdf"><img src="/img/Tip_for_advocating_when_returning_to_school_and_work_th.png" alt="DownloadHow People with Disabilities Can Advocate for Themselves When Returning to the Classroom or Worksite" class="float-left border border-dark mr-3">
 <h5><a href="/files/Tip_for_advocating_when_returning_to_school_and_work.pdf">How People with Disabilities Can Advocate for Themselves When Returning to the Classroom or Worksite</a></h5>
 
-<p>Tips and links in plain language for self-advocates on how they can advocate for themselves</p>
+<p>Tips and links in plain language for people with disabilities on how they can advocate for themselves.</p>
 <hr style="clear:both">
 
 
