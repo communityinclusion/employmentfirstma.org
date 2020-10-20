@@ -57,7 +57,7 @@ This ICI brief outlines the features of the Workforce Innovation and Opportunity
 
 
 
-[**Blueprint for Success: Employing Individuals with Intellectual Disabilities in Massachusetts**](http://www.massachusettsapse.org/PDF/DDSBlueprint.pdf)
+[**Blueprint for Success: Employing Individuals with Intellectual Disabilities in Massachusetts**](https://www.mass.gov/doc/blueprint-for-success/download)
 
 In November 2013, MA DDS, the Association of Developmental Disability Providers, and the ARC of MA released a plan aligned with the Employment First Policy. The plan aims to phase out sheltered workshops and to increase integrated employment opportunities for people with intellectual disabilities. Goals and milestones have been targeted over four fiscal years.
 
