@@ -4,7 +4,7 @@ title: Accommodations
 ---
 _Under the Americans with Disabilities Act, employees with disabilities can request “reasonable accommodations” from their employer. But what exactly does that mean, and how do accommodations work in the real world? Explore these resources to learn more._
 
-[**Accommodations Toolkit**](files/accomm-toolkit.doc)  
+[**Accommodations Toolkit**](/files/accomm-toolkit.doc)  
 This toolkit describes the different categories of accommodations along with basic information about ADA reasonable accommodation guidelines, funding, and resources.
 
 [**Job Accommodation Network (JAN) Searchable Online Resource**](http://askjan.org/links/atoz.htm)  
