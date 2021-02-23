@@ -38,7 +38,7 @@ To accomplish this, MPTE is working to ensure that families have clear and consi
 <script src="https://fast.wistia.com/embed/medias/vmxbcr0qxs.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_vmxbcr0qxs videoFoam=true" style="height:100%;position:relative;width:100%"><div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;"><img src="https://fast.wistia.com/embed/medias/vmxbcr0qxs/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" alt="" aria-hidden="true" onload="this.parentNode.style.opacity=1;" /></div></div></div></div>
 </div>
 <p><b>Description: </b></p>
-<p>This webinar identifies challenges and barriers culturally and linguistically diverse (CLD) families experience. It provides an overview of strategies for supporting and increasing partnerships between CLD families and professionals. The webinar is for professionals who serve youth and young adults with disabilities and are interested in changing systems and practices to improve employment outcomes for people with significant disabilities from low income and CLD communities.  </p>
+<p>This webinar identifies challenges and barriers culturally and linguistically diverse (CLD) families experience. It provides an overview of strategies for supporting and increasing partnerships between CLD families and professionals.  </p>
 
 <p><b>Presented by: </b></p>
 
@@ -52,19 +52,19 @@ To accomplish this, MPTE is working to ensure that families have clear and consi
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2apig2bJOEA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p><b>Description: </b></p>
-<p>Join MaryEllen MacRae of Easter Seals Massachusetts and Rachel Fichtenbaum of MassMobility for a discussion of transportation options available to support transition-aged students with disabilities across Massachusetts as they prepare for life beyond the classroom. Participants will learn about transportation services available to people with disabilities in communities around Massachusetts, explore connections between transition-aged youth and transportation opportunities, and gain a greater understanding of how to effectively infuse the topic of transportation when discussing transition goals. We will also highlight creative transportation initiatives around Massachusetts, share a new tool developed by Easter Seals, and feature resources available to individuals, families, and organizations to help solve the transportation puzzle. </p>
+<p>This webinar addresses transportation services available to people with disabilities in communities around Massachusetts, explore connections between transition-aged youth and transportation opportunities, and provides a greater understanding of how to effectively infuse the topic of transportation when discussing transition goals. </p>
 
 <p><b>Presented by: </b></p>
 <p><b>Rachel Fichtenbaum</b>: Executive Office of Health and Human Services Mobility Manager, Mass Mobility. 
 
-**Mary Ellen**: Director of Community Support Services of Easter Seals Massachusetts. </p>
+**MaryEllen MacRae**: Director of Community Support Services of Easter Seals Massachusetts. </p>
 
 <hr>
 
 <h4>Raising the Bar: Seeing Employment as Part of Our Children’s Future</h4>
 <p><b> </b></p>
 <p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/20FS1RlQ7ME" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-<p>Employment is an important milestone for youth transitioning into adult life. This is equally true for youth with significant disabilities. This session is designed to help parents see that with high expectations, the right supports, and thoughtful preparation, employment is possible. Success stories will be shared and strategies offered to help youth prepare for employment through chores at home and work experience in the community. Families play a vital role in the transition success of youth with disabilities and this session will help families raise the bar and envision a employment success for their son or daughter.</p>
+<p>This webinar is designed to help parents the bar and envision an employment success for their son and daughter. Success stories and strategies are shared to help youth prepare for employment through chores at home and work experience in the community. </p>
 
 <p><b>Presented by:</b></p>
 
@@ -76,7 +76,7 @@ To accomplish this, MPTE is working to ensure that families have clear and consi
 <p><b></b></p>
 <p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GZtRPI_eGZk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
-<p>Families want what is best for their youth or young adult with a disability. This includes the opportunity to be a part of the community and earn income through employment. Some families may be apprehensive to explore competitive employment, especially if their son or daughter has high support needs. Others may see a future that includes employment, but don’t know how to support their son or daughter in preparing for it. This session will highlight the importance of family involvement in the employment success of youth, while providing strategies for professionals to better engage families in the process. Topics will include understanding the family perspective, addressing apprehension in exploring community-based employment, and strategies for helping families play a key role in career readiness and the job search.</p>
+<p>This webinar highlights the importance of family involvement in the employment success of youth, while providing strategies for professionals to better engage families in the process. Topics include understanding the family perspective, addressing apprehension in exploring community-based employment, and strategies for helping families play a key role in career readiness and the job search.</p>
 <p><b>Presented by:</b></p>
 <p>Sean Roy: Training Associate, TransCen Inc.  </p>
 
@@ -113,8 +113,7 @@ Pat Nemia: M.A., P.T., Project Director at the Federation for Children with Spec
 <p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/kEmXSJaFruM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-<p>What are your options? How do you evaluate the support your child may need as they enter adulthood? 
-Fred Misilo leads this training on guardianship, alternatives to guardianship and other “coming of age” related issues for individuals with intellectual and developmental disabilities. </p>
+<p>This webinar addresses guardianship, alternatives to guardianship and other “coming of age” related issues for individuals with intellectual and developmental disabilities. </p>
 
 <p><b>Presented by:</b></p>
 <p>Frederick M. Misilo, Jr.: Attorney and Vice President, The Arc of The United States, Inc.</p>
