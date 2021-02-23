@@ -20,4 +20,4 @@ ACRE is a membership organization, and offers curriculum review to its members. 
 
 ACRE also maintains a certificate registry, which lists the professionals who complete the ACRE-approved training by name, certificate type, state, and year of training. To view all approved ACRE training providers, see [http://www.acreducators.org/find-training-providers](http://www.acreducators.org/find-training-providers).
 
-ICI and DDS have partnered to offer you the option to achieve the National ACRE certificate.  If you are interested in pursuing this option please <a href="/files/ACRE_DDS Agreement_online.doc">download and complete this form</a>.  You can also contact Lara Enein at <a href="mailto:lara.enein@umb.edu">lara.eneindonovan@umb.edu</a> with any questions.
+ICI and DDS have partnered to offer you the option to achieve the National ACRE certificate.  If you are interested in pursuing this option please <a href="/files/ACRE_DDS Agreement_online.doc">download and complete this form</a>.  You can also contact Lara Enein at <a href="mailto:lara.enein@umb.edu">lara.enein@umb.edu</a> with any questions.
