@@ -1,6 +1,6 @@
 ---
-title: "About Us"
 layout: default
+title: About Us
 ---
 
 
@@ -15,7 +15,7 @@ More people with disabilities are working at a competitive wage in their communi
 For more information about training and technical assistance opportunities, or to submit a success story contact:  
 
 **Cindy Thomas**
-Associate Director  
+Director  
 Institute for Community Inclusion/UCEDD  
 UMass Boston 
 100 Morrissey Blvd.  
