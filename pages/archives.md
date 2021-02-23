@@ -1,6 +1,6 @@
 ---
-title: "Webinar Archives"
 layout: default
+title: Webinar Archives
 ---
 
 <p class="lead">This page contains past webinar presentations sponsored by DDS in partnership with ICI.  Selecting the links below will open the presentations.</p>
@@ -17,7 +17,7 @@ layout: default
 
 
 <hr>
-<h3><a href="https://icimedia.wistia.com/medias/5ialvlo5yz">Employer Engagement During Challenging Times Part 1</a>(October 2020)</h3>
+<h3><a href="https://icimedia.wistia.com/medias/5ialvlo5yz">Employer Engagement During Challenging Times Part 1</a></h3>
 <p>Enhancing Best Practices: Part 1 of this two-part series focused on the importance of maintaining our commitment to the values of integrated employment, and best practices in job development and employment searches can be utilized during this challenging time.</p>
 <p>
     <script src="https://fast.wistia.com/embed/medias/5ialvlo5yz.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><span class="wistia_embed wistia_async_5ialvlo5yz popover=true popoverAnimateThumbnail=true" style="display:inline-block;height:77px;position:relative;width:150px">&nbsp;</span>
