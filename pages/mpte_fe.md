@@ -68,7 +68,7 @@ To accomplish this, MPTE is working to ensure that families have clear and consi
 
 <p><b>Presented by:</b></p>
 
-<p>Sean Roy: Training Associate, TransCen Inc. </p>
+<p><b>Sean Roy:</b> Training Associate, TransCen Inc. </p>
 
 <hr>
 <h5>For Professionals and Educators </h5>
