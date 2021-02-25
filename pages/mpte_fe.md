@@ -4,7 +4,7 @@ title: MPTE - Family Engagement
 ---
 <img src="/img/MPTE_logo.png" alt="MPTE" class="img-fluid float-left" style="max-width:250px; padding-right:3em;" >
 
-**One of the 4** focus areas of MPTE is consistent parental and family support for competitive integrated employment. Early and ongoing expectations and support from an individual’s family is critically important for employment and career success. 
+One of the 4 focus areas of MPTE is consistent parental and family support for competitive integrated employment. Early and ongoing expectations and support from an individual’s family is critically important for employment and career success. 
 
 To accomplish this, MPTE is working to ensure that families have clear and consistent information regarding best practices in employment; that families know how to make the most of the transition process to prepare their family member for career success; and that families are aware of how to use and manage the resources available to support access to competitive integrated employment, both while the individual is in school, and after they leave school. 
 
@@ -55,9 +55,9 @@ To accomplish this, MPTE is working to ensure that families have clear and consi
 <p>This webinar addresses transportation services available to people with disabilities in communities around Massachusetts, explore connections between transition-aged youth and transportation opportunities, and provides a greater understanding of how to effectively infuse the topic of transportation when discussing transition goals. </p>
 
 <p><b>Presented by: </b></p>
-<p><b>Rachel Fichtenbaum</b>: Executive Office of Health and Human Services Mobility Manager, Mass Mobility.   
+<p><b>Rachel Fichtenbaum</b>: Executive Office of Health and Human Services Mobility Manager, Mass Mobility.   </p>
 
-**MaryEllen MacRae**: Director of Community Support Services of Easter Seals Massachusetts. </p>
+<p><b>MaryEllen MacRae</b>: Director of Community Support Services of Easter Seals Massachusetts. </p>
 
 <hr>
 
