@@ -55,7 +55,7 @@ To accomplish this, MPTE is working to ensure that families have clear and consi
 <p>This webinar addresses transportation services available to people with disabilities in communities around Massachusetts, explore connections between transition-aged youth and transportation opportunities, and provides a greater understanding of how to effectively infuse the topic of transportation when discussing transition goals. </p>
 
 <p><b>Presented by: </b></p>
-<p><b>Rachel Fichtenbaum</b>: Executive Office of Health and Human Services Mobility Manager, Mass Mobility. 
+<p><b>Rachel Fichtenbaum</b>: Executive Office of Health and Human Services Mobility Manager, Mass Mobility.   
 
 **MaryEllen MacRae**: Director of Community Support Services of Easter Seals Massachusetts. </p>
 
