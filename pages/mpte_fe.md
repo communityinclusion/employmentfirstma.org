@@ -57,7 +57,7 @@ To accomplish this, MPTE is working to ensure that families have clear and consi
 <p><b>Presented by: </b></p>
 <p><b>Rachel Fichtenbaum</b>: Executive Office of Health and Human Services Mobility Manager, Mass Mobility. 
 
-MaryEllen MacRae: Director of Community Support Services of Easter Seals Massachusetts. </p>
+**MaryEllen MacRae**: Director of Community Support Services of Easter Seals Massachusetts. </p>
 
 <hr>
 
