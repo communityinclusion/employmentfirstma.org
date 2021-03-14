@@ -1,11 +1,16 @@
 
-body{ background-color:#F8F9FA;}
-
-html {
-  font-size: 1rem;
+body{ background-color:#F8F9FA;
+  font-size: 1.1rem;
+  font-family: myriad-pro, sans-serif;
+  font-style: normal;
 }
 
-a {text-decoration: dotted;}
+html {
+ 
+}
+
+a {color:#0075AD; text-decoration-style: dotted;
+}
 
 @include media-breakpoint-up(sm) {
   html {
@@ -36,7 +41,7 @@ a {text-decoration: dotted;}
     background-color: #E3E7EF;
     color:black;
   }
-  h2, h3, h4{color:#3976B8;}
+  h2, h3, h4{color:#5D9632;}
 
   .cse .gsc-control-cse, .gsc-control-cse {padding:0 !important;}
 
@@ -106,4 +111,18 @@ ornange
 
 h2 {margin-top:2em; text-transform: uppercase;}
 
-.box {border:2px #a7d48f solid;}
+.box {border:2px #6f726d solid;}
+
+.box-re  {
+  text-align: center;
+	padding-top: .75rem;
+	padding-bottom: .75rem;
+	background-color: rgba(39,41,43,0.03);
+	border: 1px solid #6f726d;
+}
+
+#tier1 {border-left: #8ed78a solid ; margin-left:2em; padding-left:2em;}
+#tier2 {border-left: #0076bd solid ; margin-left:2em; padding-left:2em;}
+
+.border-blue{ border-left:#0076bd solid;}
+.border-green{ border-left:#8ed78a solid;}
