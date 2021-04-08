@@ -2,6 +2,7 @@
 layout: tr
 title: Quality Employment Practices
 ---
+
 <h2 id="cp"> Career Planning</h2>
 
 _Many options exist for supporting people with disabilities to work in their communities. This page offers tools and guidelines that employment professionals and families can use to navigate the process of preparing for fulfilling work._
@@ -55,31 +56,29 @@ _Once a person with a disability has been hired, the goal is to support them to 
 [**Building Friendships at Work**](/files/FRIENDSHIPS_AT_WORK_TOOLKIT.pdf)  
 This toolkit for employment specialists, job developers and job coaches can help you take better advantage of opportunities to facilitate friendships at work for those you support.
 
-[**Employment Specialist Toolbox Fact Sheet**](<http://employmentfirstma.org/files/ES Toolkit Factsheet-D2.doc>)
+[**Employment Specialist Toolbox Fact Sheet**](/files/ES Toolkit Factsheet-D2.doc)
 This fact sheet explains the array of tools and strategies that are key to the employment specialist/job coach role.
 
-[**Natural Supports and Social Inclusion Fact Sheet**](http://employmentfirstma.org/files/NatSup-SocIncl_factsht_revJuly2015.docx)
+[**Natural Supports and Social Inclusion Fact Sheet**](/files/naturalsupports_R.pdf)
 This fact sheet expounds on the meaning and significance of natural supports and social inclusion and offers tips to employment staff on how to engage employers and coworkers in facilitating employment success.
 
-[**Workplace Inclusion Checklist**](http://employmentfirstma.org/files/Workplace_InclusionChecklis.doc)  
+[**Workplace Inclusion Checklist**](/files/inclusion_checklist_R.pdf)  
 This document provides a list of activities, routines, and rituals that are typically available at a workplace and that can serve as catalysts for facilitation of natural supports and social inclusion.
 
-[**Assessing Workplace Culture Fact Sheet**](<http://employmentfirstma.org/files/Assess_Workplace Culture FactSht.doc>)  
+[**Assessing Workplace Culture Fact Sheet**](/files/Assess_Workplace Culture FactSht.doc)  
 This fact sheet emphasizes assessment of workplace culture as a vehicle for developing natural supports and social inclusion, and advises employment staff about what to look for in this situation.
 
-[**Workplace Culture Survey**](<http://employmentfirstma.org/files/Workplace_Cult_ Survey.doc>)  
+[**Workplace Culture Survey**](/files/Workplace*Cult* Survey.doc)  
 This is a comprehensive and formal tool for use in closely analyzing a workplace for natural supports and workplace inclusion potential. Instructions on how to administer this tool are included.
 
-[**Placement Support Plan Form**](http://employmentfirstma.org/files/PlcmntSupprtPlan.doc)  
+[**Placement Support Plan Form**](/files/placement_support_plan_R.pdf)  
 This form provides a collaborative format in which to identify and coordinate what types of assistance the job seeker will need following job placement, including who will provide which supports.
 
-[**Working with Individuals with Challenging Behaviors: A Problem Solving Guide**](http://employmentfirstma.org/files/Challng_Behavior_Guide.pdf)
+[**Working with Individuals with Challenging Behaviors: A Problem Solving Guide**](/files/Challng_Behavior_Guide.pdf)
 This fact sheet offers a framework to understand and work through challenging behaviors. Interpreting what the behavior is communicating, seeking a functional analysis, and generating alternative solutions are part of this process.
 
-[**Job Coach Self-Evaluation Checklist**](<http://employmentfirstma.org/files/JC Self eval.doc>)
+[**Job Coach Self-Evaluation Checklist**](/files/JC Self eval.doc)
 This tool provides a checklist of questions for employment staff to reflectively evaluate their job coaching style and skills at a particular job site.
-
-
 
 <h2 id="jd"> Job Development</h2>
 
@@ -115,7 +114,7 @@ This disclosure decision guide and tool from Virginia Commonwealth University ta
 
 **<a href="https://www.communityinclusion.org/article.php?article_id=126&type=topic&id=3
 ">When Existing Jobs Don't Fit: A Guide to Job Creation</a>**  
- This ICI brief describes how to approach job creation. It includes case studies and a step-by-step tool for job developers to use in this process.  
+ This ICI brief describes how to approach job creation. It includes case studies and a step-by-step tool for job developers to use in this process.
 
 **<a href="https://www.communityinclusion.org/article.php?article_id=151&type=topic&id=3
 "> The 30-Day Placement Plan</a>**  
@@ -123,8 +122,6 @@ This ICI brief outlines a strategy that breaks the job search down in to a serie
 
 [**Making Networking Easier for Job Seekers: A Guide**](https://www.communityinclusion.org/article.php?article_id=138&type=topic&id=3)
 This ICI brief geared to employment staff points out barriers and solutions to promote wider use of networking as an effective career development strategy.
-
-
 
 [**Job Networking in Diverse Communities**](https://www.communityinclusion.org/article.php?article_id=139&type=topic&id=3)
 This ICI brief offers insights and a broad perspective on how enhanced networking strategies can be used in diverse communities to help people with disabilities find better jobs and increase community integration.
