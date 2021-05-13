@@ -2,7 +2,8 @@
 layout: tr
 title: Transition from School to Work
 ---
-The following resources describe initiatives that helped individuals with disabilities transition from educational settings to competitive, integrated employment. 
+
+The following resources describe initiatives that helped individuals with disabilities transition from educational settings to competitive, integrated employment.
 
 [**Promising Practices for Transition from School to Work**](https://employmentfirstma.org/pages/pp.html)
 
@@ -17,8 +18,8 @@ This webpage provides resources and lessons learned from the implementation of v
 <p>This fact sheet provides key tips for how families can help young adults with intellectual disability and/or autism who may need decision-making supports.</p>
 <hr style="clear:both">
 
-
 <a href="/files/getfacts_1_F.pdf"><img src="/img/getfacts_1_F_th.png" alt="Download get the facts brief" class="float-left">
+
 <h5><a href="/files/getfacts_1_F.pdf">Transition to Employment: Get the Facts #1</a></h5>
 
 <p>This fact sheet provides key tips for how to achieve competitive integrated employment even if you need job supports on an ongoing basis.</p>
@@ -26,9 +27,6 @@ This webpage provides resources and lessons learned from the implementation of v
 
 <h2 style="clear: both; padding-top:1em;">Related Webinars</h2>
 <hr>
-
-
-
 
 <h5>For Families and Students</h5>
 <hr>
@@ -57,7 +55,6 @@ This webpage provides resources and lessons learned from the implementation of v
 <p><strong>MaryEllen MacRae</strong>: Director of Community Support Services of <a href="https://www.easterseals.com/ma/">Ester Seals Massachusetts</a></p>
 
 <hr>
-
 
 <h4>Raising the Bar: Seeing Employment as Part of Our Children’s Future</h4>
 
@@ -90,7 +87,6 @@ This webpage provides resources and lessons learned from the implementation of v
 <h5>Turning 18</h5>
 <h4>Planning for the Transition to Adulthood: Applying for SSI and Medicaid (MassHealth)</h4>
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P60mpmicrU8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p><strong>Description:</strong></p>
@@ -98,9 +94,6 @@ This webpage provides resources and lessons learned from the implementation of v
 <p><strong>Presented by:</strong></p>
 <p><strong>Karen Mariscal</strong>: Esq.</p>
 <p><strong>Pat Nemia</strong>: M.A., P.T., Project Director at <a href="https://fcsn.org/">the Federation for Children with Special Needs</a></p>
-
-
-
 
 <hr>
 <h4>Autonomy, Decision Making Supports, and Guardianship</h4>
@@ -116,7 +109,13 @@ This webpage provides resources and lessons learned from the implementation of v
 <h2 id="sdsa">Self Determination and Self Advocacy</h2>
 <p>Content Coming Soon.</p>
 <h2 id="we">Work Experiences</h2>
+<a href="/files/MPTE_Work-Based_Learning_Brief.pdf"><img src="/img/MPTE_Work-Based_Learning_Brief_th.png" class="float-left" alt="WORK-BASED LEARNING FOR STUDENTS WITH HIGH SUPPORT NEEDS: THEMES, STRATEGIES, AND POLICY RECOMMENDATIONS" style="padding-right:1em;"></a>
+<h3><a href="/files/MPTE_Work-Based_Learning_Brief.pdf">WORK-BASED LEARNING FOR STUDENTS WITH HIGH SUPPORT NEEDS: THEMES, STRATEGIES, AND POLICY RECOMMENDATIONS </a></h3>
+<p>This comprehensive brief discusses a variety of issues and strategies for supporting students in work experiences as part of transition from school to adult life, including a series of practice and policy recommendations.</p>
+<hr style="clear:both">
+
 <a href=""><img src="/img/community_transportation_F_th.png" alt="download Community Transportation for Transition-Aged Youth with Disabilities" class="float-left" style="padding-right:1em;"></a>
+
 <h3><a href="/files/community_transportation_F.pdf">Community Transportation for Transition-Aged Youth with Disabilities</a></h3>
 <p>This one-page brief provides a variety of ideas and resources to assist youth with disabilities to identify transportation options for employment and other activities.</p>
 <hr style="clear:both">
