@@ -2,9 +2,10 @@
 layout: tr
 title: Benefits
 ---
+
 _One obstacle to finding fulfilling work is the fear of losing Social Security disability benefits, such as SSI and SSDI. On this page, you’ll learn more about how benefits work, and what incentives exist to help people keep their benefits while exploring a career._
 
-[**Basics of Social Security Fact Sheet**](/files/Basics_of_Benefits_2014.doc)  
+[**Basics of Social Security Fact Sheet**](/files/SSDI_benefits_EFM.pdf)  
 This grid shows you the basics of SSI and SSDI at-a-glance, and gives you contact information for the two Work Incentives Planning and Assistance (WIPA) programs in MA (Project IMPACT and BenePLAN).
 
 [**Going To Work: A Guide to Social Security Benefits and Employment for Young People with Disabilities (2011 Edition)**](http://www.communityinclusion.org/article.php?article_id=211&type=topic&id=15)  
