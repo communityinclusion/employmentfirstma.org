@@ -2,14 +2,20 @@
 layout: default
 title: MPTE - Family Engagement
 ---
+
 <img src="/img/MPTE_logo.png" alt="MPTE" class="img-fluid float-left" style="max-width:250px; padding-right:3em;" >
 
-One of the 4 focus areas of MPTE is consistent parental and family support for competitive integrated employment. Early and ongoing expectations and support from an individual’s family is critically important for employment and career success. 
+One of the 4 focus areas of MPTE is consistent parental and family support for competitive integrated employment. Early and ongoing expectations and support from an individual’s family is critically important for employment and career success.
 
-To accomplish this, MPTE is working to ensure that families have clear and consistent information regarding best practices in employment; that families know how to make the most of the transition process to prepare their family member for career success; and that families are aware of how to use and manage the resources available to support access to competitive integrated employment, both while the individual is in school, and after they leave school. 
+To accomplish this, MPTE is working to ensure that families have clear and consistent information regarding best practices in employment; that families know how to make the most of the transition process to prepare their family member for career success; and that families are aware of how to use and manage the resources available to support access to competitive integrated employment, both while the individual is in school, and after they leave school.
 
 <h2  style="clear:both;padding-top:1em;">Related Briefs</h2>
 <hr>
+<a href="/files/getfacts_issue4_remediated.pdf"><img src="/img/getfacts_issue4_remediated_th.png" alt="Download get the facts brief #3" class="float-left">
+<h5><a href="/files/getfacts_issue4_remediated.pdf">Transition to Employment: Get the Facts #4</a></h5>
+<p>A Chapter 688 Referral From Your School Is a First Step in Connecting With Adult Services.</p>
+
+<hr style="clear:both">
 <a href="/files/getfacts_issue3_F.pdf"><img src="/img/getfacts_issue3_F_th.png" alt="Download get the facts brief #3" class="float-left">
 <h5><a href="/files/getfacts_issue3_F.pdf">Transition to Employment: Get the Facts #3</a></h5>
 <p>This fact sheet defines what integrated, individual employment means according to policy and explores what Employment First means for youth and families in Massachusetts.</p>
@@ -86,9 +92,9 @@ To accomplish this, MPTE is working to ensure that families have clear and consi
 <h4>Helping Your Child to Lead: Student-Driven Secondary Transition Webinar </h4>
 <p><b></b></p>
 <p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YwFRAflxVnY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-<p><b>Presented by:</b> 
+<p><b>Presented by:</b>
 
-<b>Amanda Green:</b> Secondary Transition Coordinator, The Massachusetts Department of Elementary and Secondary Education. 
+<b>Amanda Green:</b> Secondary Transition Coordinator, The Massachusetts Department of Elementary and Secondary Education.
 
 <b>Martha Daigle:</b> Family Engagement Coordinator, The Massachusetts Department of Elementary and Secondary Education.</p>
 
@@ -102,7 +108,7 @@ To accomplish this, MPTE is working to ensure that families have clear and consi
 <p>As students in special education prepare to enter adulthood, there are several areas that need to be addressed. One of the most important is for individuals with I/DD including Autism who are turning 18 years old to apply for Supplemental Security Income (SSI) and Medicaid. Join us for this informative presentation which will discuss why applying for SSI and Medicaid is important, the steps you need to take to prepare to apply, and then how to apply for this important benefit. </p>
 
 <p><b>Presented by: </b></p>
-<p><b>Karen Mariscal:</b> Esq., attorney and an expert on special needs estate planning, guardianship, and government benefits. 
+<p><b>Karen Mariscal:</b> Esq., attorney and an expert on special needs estate planning, guardianship, and government benefits.
 
 <b>Pat Nemia:</b> M.A., P.T., Project Director at the Federation for Children with Special Needs. </p>
 
