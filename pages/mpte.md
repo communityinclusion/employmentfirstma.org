@@ -55,6 +55,10 @@ For further information on MPTE, please contact Margaret Van Gelder at the Depar
 
 <h2  style="clear:both;padding-top:1em;">Related Briefs</h2>
 <hr>
+<a href="/files/MPTE_datadashboard_2021_R.pdf"><img src="/img/MPTE_datadashboard_2021_R_th.png" alt="download the MPTE Data Dashboard" class="float-left" style="padding-right:2em;"></a>
+<h3><a href="/files/MPTE_datadashboard_2021_R.pdf">Updated MPTE Data Dashboard Now Available!</a></h3>
+The Massachusetts Partnership for Transition to Employment (MPTE) data dashboard provides an overview of the current status of youth with intellectual and developmental disabilities transitioning to work in Massachusetts. The 2019-2020 dashboard highlights recent initiatives, includes several new videos, and provides indicators of the impact of COVID-19.
+<hr>
 <a href="/files/MPTE_datadashboard_F.pdf"><img src="/img/MPTE_datadashboard_F_th.png" alt="download the MPTD Dashboard" class="float-left" style="padding-right:2em;"></a>
 <h3><a href="/files/MPTE_datadashboard_F.pdf">Download the MPTE Dashboard</a></h3>
 <p>The Massachusetts Partnership for Transition to Employment (MPTE) data dashboard provides an overview of the current status of youth with intellectual and developmental disabilities transitioning to work in Massachusetts. It draws from multiple state and national data sources as well as specific initiatives of the MPTE.</p>
