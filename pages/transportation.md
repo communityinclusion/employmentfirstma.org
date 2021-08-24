@@ -13,7 +13,7 @@ _Inclusive transportation is vital to the successful integration of individuals 
 [**Massachusetts Transportation Resources**](/files/Massachusetts_Transportation_Resources.docx)  
 These listing offers a variety of resources to assist with transportation challenges.
 
-[**Travel Training Packet**](<http://employmentfirstma.org/files/Travel Training Forms.doc>)  
+[**Travel Training Packet**](</files/Travel_Training_Forms.docx>)  
 This packet contains a variety of tools to assist with safe and comprehensive transportation planning, including public transit travel training sheet, pedestrian safety skills checklist, emergency contact information form, etc.
 
 <p><b><a href="/files/community_transportation_F.pdf">Community Transportation for Transition-Aged Youth with Disabilities</a></b>
