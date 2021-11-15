@@ -11,7 +11,7 @@ This grid shows you the basics of SSI and SSDI at-a-glance, and gives you contac
 [**Going To Work: A Guide to Social Security Benefits and Employment for Young People with Disabilities (2011 Edition)**](http://www.communityinclusion.org/article.php?article_id=211&type=topic&id=15)  
 This ICI publication provides easy-to-understand, practical, hands-on information about work incentives and the impact of earnings on SSI and SSDI benefits.
 
-[**Changing the Culture and Message About Benefits: A Comprehensive Approach for Promoting Employment**](http://www.tacene.org/sites/tacene.org/files/files/BenefitCultureFactSht.pdf)  
+[**Changing the Culture and Message About Benefits: A Comprehensive Approach for Promoting Employment**](/files/SELN_Benefits_Publication.pdf)  
 This brief addresses how to reframe the message that public benefit concerns are a barrier, in order to promote the expansion of community employment for people with disabilities.
 
 [**Work Incentives Information from Social Security Web Site**](http://www.ssa.gov/disabilityresearch/workincentives.htm)  
