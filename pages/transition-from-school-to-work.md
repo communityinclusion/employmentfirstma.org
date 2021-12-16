@@ -107,7 +107,23 @@ This webpage provides resources and lessons learned from the implementation of v
 <p><strong>Frederick M. Misilo, Jr.</strong>: Attorney and Vice President, <a href="https://thearc.org/">the Arc of The United States, Inc</a>. </p>
 
 <h2 id="sdsa">Self Determination and Self Advocacy</h2>
-<p>Content Coming Soon.</p>
+<div class="card">
+  <div class="card-body">
+    <p class="lead">The following videos feature young adults speaking about their transition experiences moving from high school to the working world. They discuss the job training they received while in high school, how supportive their schools were of their post-school goals, and give advice for both students and educators about supporting individuals with intellectual and developmental disabilities in their transition years. </p>
+    <div class="container">
+  <div class="row">
+    <div class="col-md-6 p-4"><h4>Jillian's Transition Story</h4>
+    <script src="https://fast.wistia.com/embed/medias/3qq6b11vco.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><span class="wistia_embed wistia_async_3qq6b11vco popover=true popoverAnimateThumbnail=true videoFoam=true" style="display:inline-block;height:100%;position:relative;width:100%">&nbsp;</span></div></div></div>
+    <div class="col-md-6 p-4"><h4>Patrick's Transition Story</h4>
+    <script src="https://fast.wistia.com/embed/medias/ewa0oy2ex7.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><span class="wistia_embed wistia_async_ewa0oy2ex7 popover=true popoverAnimateThumbnail=true videoFoam=true" style="display:inline-block;height:100%;position:relative;width:100%">&nbsp;</span></div></div></div>
+    <div class="col-md-6 p-4"> <h4>Kamisha's Transition Story </h4>
+    <script src="https://fast.wistia.com/embed/medias/mna10d1m52.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><span class="wistia_embed wistia_async_mna10d1m52 popover=true popoverAnimateThumbnail=true videoFoam=true" style="display:inline-block;height:100%;position:relative;width:100%">&nbsp;</span></div></div></div>
+    <div class="col-md-6 p-4"><h4>Maggie's Transition Story</h4>
+    <script src="https://fast.wistia.com/embed/medias/r5fejbjl7t.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><span class="wistia_embed wistia_async_r5fejbjl7t popover=true popoverAnimateThumbnail=true videoFoam=true" style="display:inline-block;height:100%;position:relative;width:100%">&nbsp;</span></div></div></div>
+  </div>
+  </div>
+</div>
+</div>
 <h2 id="we">Work Experiences</h2>
 <a href="/files/MPTE_Work-Based_Learning_Brief.pdf"><img src="/img/MPTE_Work-Based_Learning_Brief_th.png" class="float-left" alt="WORK-BASED LEARNING FOR STUDENTS WITH HIGH SUPPORT NEEDS: THEMES, STRATEGIES, AND POLICY RECOMMENDATIONS" style="padding-right:1em;"></a>
 <h3><a href="/files/MPTE_Work-Based_Learning_Brief.pdf">WORK-BASED LEARNING FOR STUDENTS WITH HIGH SUPPORT NEEDS: THEMES, STRATEGIES, AND POLICY RECOMMENDATIONS </a></h3>
