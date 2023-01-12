@@ -29,10 +29,10 @@ a {
     font-size: 1.6rem;
   }
 }
+header {background-color: #E3E7EE; border-top: 10px solid #3b77b7; border-bottom: 10px solid #8ed78a;}
 
 .tagline {
   color: #3b77b7;
-  padding-top: 0.5em;
 }
 
 .blue {
@@ -73,6 +73,7 @@ a.navbar-brand {
 
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {
+
   #navbarDropdown.green {
     color: white;
     background-color: #a5d48f;
@@ -198,6 +199,14 @@ ornange
   border: #3377b7 1px solid;
   font-size: larger;
 }
+header h1, h4 {
+  font-family: proxima-nova, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+header h1 {text-transform:Uppercase; padding-bottom: 0px; margin-bottom: 0px;}
+header h4 {padding-top:0px; margin-top:0px;}
+header a { text-decoration: none;}
 
 h2 {
   margin-top: 2em;
