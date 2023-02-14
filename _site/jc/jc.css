@@ -242,3 +242,5 @@ h2 {
 .border-green {
   border-left: #8ed78a solid;
 }
+
+summary strong {color: #0076bd;}
