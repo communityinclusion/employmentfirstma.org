@@ -32,10 +32,10 @@ This fact sheet for employment staff produced by Virginia Commonwealth Universit
 **<a href="http://www.worksupport.com/documents/disclosure_decisions1.pdf">Disclosure Decisions To Get The Job</a>**  
 This disclosure decision guide and tool from Virginia Commonwealth University takes job seekers through three steps: Determining need for disclosure, Deciding when to disclose, and Choosing how to disclose.
 
-**<a href="https://www.communityinclusion.org/article.php?article_id=126&type=topic&id=3
+**<a href="https://archive.communityinclusion.org/article.php?article_id=126&type=topic&id=3
 ">When Existing Jobs Don't Fit: A Guide to Job Creation</a>**  
  This ICI brief describes how to approach job creation. It includes case studies and a step-by-step tool for job developers to use in this process.  
 
-**<a href="https://www.communityinclusion.org/article.php?article_id=151&type=topic&id=3
+**<a href="https://archive.communityinclusion.org/article.php?article_id=151&type=topic&id=3
 "> The 30-Day Placement Plan</a>**  
 This ICI brief outlines a strategy that breaks the job search down in to a series of small, manageable tasks, and provides a form to develop and monitor progress.

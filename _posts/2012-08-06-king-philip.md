@@ -37,7 +37,7 @@ The major impact of the KP Links program is on students. Most students gain some
 	
 - Do the research on best practices and what works for successful transitions. Some resources to start with are: 
 	- The National Secondary Transition and Technical Assistance Center website at www.nsttac.org 
-	- ICI's Education and Transition site at [http://www.communityinclusion.org/topic.php?topic_id=7](http://www.communityinclusion.org/topic.php?topic_id=7)
+	- ICI's Education and Transition site at [http://archive.communityinclusion.org/topic.php?topic_id=7](http://archive.communityinclusion.org/topic.php?topic_id=7)
 	- The National Center on Secondary Education and Transition website at http://ncset.org/
 	- Grigal, M., Neubert, D. A., & Moon, M.S. (2005). *Transition services for students with significant disabilities in college and community settings: Strategies for planning, implementation, and evaluation.* Austin, TX: PRO-ED, Inc.
 

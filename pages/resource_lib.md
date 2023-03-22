@@ -13,6 +13,6 @@ More people with disabilities are working at a competitive wage in their communi
 - <a href="http://www.apse.org/docs/QualityIndicators.pdf">Supported Employment Quality Indicators</a>  
 This document from the Association for Persons Supporting Employment First (APSE) provides guidelines for practices, values, and competencies involved in providing quality individualized and integrated employment services.
 
-- <a href="http://www.realworkstories.org/">Real People Real Jobs Website</a>    
+- <a href="https://www.thinkwork.org/think-work-stories">ThinWork Stories Website</a>    
 This site highlights the employment successes of people with intellectual and developmental disabilities, and the promising practices that led to their successes. It contains a variety of personal stories (some with videos), and highlights the specific strategies and approaches used for success.
 

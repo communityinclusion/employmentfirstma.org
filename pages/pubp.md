@@ -13,7 +13,7 @@ layout: tr
 
 
 
-[WIA IS NOW WIOA: What the New Bill Means For People with Disabilities](http://www.communityinclusion.org/article.php?article_id=382)  
+[WIA IS NOW WIOA: What the New Bill Means For People with Disabilities](http://archive.communityinclusion.org/article.php?article_id=382)  
 This ICI Brief outlines the features of the Workforce Innovation and Opportunity Act (WIOA), which reauthorizes the Workforce Investment Act of 1009, including the Rehabilitation Act, through 2020.
 
 [Employment First Policy, MA Department of Developmental Services (DDS)](http://www.mass.gov/eohhs/gov/laws-regs/dds/policies/s-employment-first-policy-2010-2.html)  

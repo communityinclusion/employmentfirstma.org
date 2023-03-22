@@ -28,14 +28,14 @@ This packet includes assorted information about use of situational assessment in
 **<a href="/files/ConsumerAssess.doc">Consumer Assessment Form</a>**  
 This tool (adapted from Helping People With Severe Mental Retardation Get and Keep Employment, Brookes Publishing, 1990) provides a comprehensive categorization of skills, attributes, and other factors that need to be assessed during career development. The form allows you to note input from the individual, parent/family/friends, as well as staff, and includes space to record situational assessment experiences.
 
-**<a href="http://www.communityinclusion.org/article.php?article_id=54&type=topic&id=3
+**<a href="http://archive.communityinclusion.org/article.php?article_id=54&type=topic&id=3
 ">Starting With Me: Guide to Person-Centered Planning for Job Seekers</a>**  
 A person-centered approach can help individuals with disabilities make satisfying job choices. This ICI brief guides job seekers through a three-stage career development process that includes assessing their interests, researching the job market, and marketing themselves to potential employers.
 
-**<a href="https://www.communityinclusion.org/article.php?article_id=16&type=topic&id=3
+**<a href="https://archive.communityinclusion.org/article.php?article_id=16&type=topic&id=3
 ">More Than Just a Job: Person-Centered Career Planning</a>**  
 Sometimes employment professionals think that person-centered career planning has to involve a big meeting, or is only for people with the most significant disabilities. This ICI brief lays out the principles and highlights of this process.
 
-**<a href="https://www.communityinclusion.org/article.php?article_id=266&type=topic&id=3
+**<a href="https://archive.communityinclusion.org/article.php?article_id=266&type=topic&id=3
 ">Supporting Individuals with Autism Spectrum Disorder: Quality Employment Practices</a>**  
 This ICI brief focuses on effective placement planning and assessment for job seekers with ASD.
