@@ -9,6 +9,29 @@ layout: default
     course to answer questions and give feedback. Instructions for accessing online courses are emailed, usually around
     a week before the course start date.</p>
 
+
+    <div id="eventbrite-widget-container-607422867147"></div>
+
+    <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+    
+    <script type="text/javascript">
+        var exampleCallback = function() {
+            console.log('Order complete!');
+        };
+    
+        window.EBWidgets.createWidget({
+            // Required
+            widgetType: 'checkout',
+            eventId: '607422867147',
+            iframeContainerId: 'eventbrite-widget-container-607422867147',
+    
+            // Optional
+            iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+            onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+        });
+    </script>
+
+
 <p>A link to the online training will be sent to you prior to the start of the training.</p>
 
 <p>Contact for questions:<br>
@@ -17,23 +40,3 @@ layout: default
     <a href="tel:617-287-4314">617-287-4314</a>
 </p>
 
-<!-- Noscript content for added SEO -->
-<noscript><a href="https://www.eventbrite.com/e/foundations-of-community-employment-tickets-607422867147" rel="noopener noreferrer" target="_blank">Buy Tickets on Eventbrite</a></noscript>
-<!-- You can customize this button any way you like -->
-<button id="eventbrite-widget-modal-trigger-607422867147" type="button">Buy Tickets</button>
-
-<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
-
-<script type="text/javascript">
-    var exampleCallback = function() {
-        console.log('Order complete!');
-    };
-
-    window.EBWidgets.createWidget({
-        widgetType: 'checkout',
-        eventId: '607422867147',
-        modal: true,
-        modalTriggerElementId: 'eventbrite-widget-modal-trigger-607422867147',
-        onOrderComplete: exampleCallback
-    });
-</script>
