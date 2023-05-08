@@ -195,6 +195,29 @@
     course to answer questions and give feedback. Instructions for accessing online courses are emailed, usually around
     a week before the course start date.</p>
 
+
+    <div id="eventbrite-widget-container-607422867147"></div>
+
+    <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+    
+    <script type="text/javascript">
+        var exampleCallback = function() {
+            console.log('Order complete!');
+        };
+    
+        window.EBWidgets.createWidget({
+            // Required
+            widgetType: 'checkout',
+            eventId: '607422867147',
+            iframeContainerId: 'eventbrite-widget-container-607422867147',
+    
+            // Optional
+            iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+            onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+        });
+    </script>
+
+
 <p>A link to the online training will be sent to you prior to the start of the training.</p>
 
 <p>Contact for questions:<br>
@@ -203,26 +226,7 @@
     <a href="tel:617-287-4314">617-287-4314</a>
 </p>
 
-<div id="eventbrite-widget-container-168264966043"></div>
 
-<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
-
-<script type="text/javascript">
-    var exampleCallback = function () {
-        console.log('Order complete!');
-    };
-
-    window.EBWidgets.createWidget({
-        // Required
-        widgetType: 'checkout',
-        eventId: '168264966043',
-        iframeContainerId: 'eventbrite-widget-container-168264966043',
-
-        // Optional
-        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
-        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
-    });
-</script>
 
 
      </div>
