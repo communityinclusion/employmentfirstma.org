@@ -22,7 +22,7 @@ This pamphlet produced by the U.S. Equal Employment Opportunity Commission (EEOC
 [**Questions and Answers About Persons with Intellectual Disabilities in the Workplace and the Americans with Disabilities Act (ADA)**](http://www.eeoc.gov/laws/types/intellectual_disabilities.cfm)
 This U.S. Equal Employment Opportunity Commission (EEOC) document explains how the ADA applies to job applicants and employees with intellectual disabilities, in particular.
 
-[**Job Accommodation Network (JAN) - ADA Library**](http://askjan.org/links/adalinks.htm#I)
+[**Job Accommodation Network (JAN) - ADA Library**](https://askjan.org/ADA-Library.cfm)
 The JAN website houses a wide array of publications, targeted to various audiences, about the ADA - rights, responsibility, compliance guidelines, etc.
 
 [**ADA Amendments Act Fact Sheet**](/files/ADAAmendmentsFactSht.doc)

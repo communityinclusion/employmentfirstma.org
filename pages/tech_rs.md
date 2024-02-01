@@ -69,7 +69,7 @@ title: Technology and Remote Supports
 <div class="card">
  <div class="card-body">
 <p>WEBINAR</p>
-<h4><a href="https://communityinclusion.zoom.us/recording/share/i4asZ3JL9Ga-G5PbNZf4u-nYBQ5QbWyvfXeOv9m__KmwIumekTziMw?startTime=1550599035000">Robots are Taking Over! Technology Assists Human Supports to Fade, Opening the Door to Independence (February 2019)</a></h4>
+<h4><a href="https://icimedia.wistia.com/medias/im6tlstrot">Robots are Taking Over! Technology Assists Human Supports to Fade, Opening the Door to Independence (February 2019)</a></h4>
 <p>Though smart speakers and robots are not the answer to all of life’s challenges, there are very practical ways we all use technology to be more independent in our lives and in our work. This session will support participants to think about assistive technology when supporting people to reach independence on their employment pathway.</p>
     <p><a href="/files/Robots_are_taking_over.pdf"> Slides</a> (<i class="far fa-file-pdf"></i> PDF) | <a href="/files/robots_taking_over_webinar_transcript.docx">Transcript</a> (<i class="far fa-file-word"></i> Doc)  </p>
 </div>

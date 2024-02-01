@@ -12,10 +12,11 @@ ACRE-approved training is an effective way to obtain the knowledge and skills ne
 
 The ICI provides low cost training for DDS providers in Massachusetts. Other training entities to consider include:
 
--	[APSE](http://www.apse.org/training/)
+-	[APSE](https://apse.org/events-learning/)
+-   [ACRE]{https://www.acreducators.org/view-all-training-providers.html)}
 -	[College of Employment Services](http://directcourseonline.com/employment-services/)
 -	[Griffin-Hammis Associates](http://www.griffinhammis.com/onlinetraining.html)
--	[Institute for Community Inclusion](http://archive.communityinclusion.org/staff.php?staff_id=11)
+-	[Institute for Community Inclusion](https://www.communityinclusion.org/onlinelearning/ces/)
 -	[Mark Gold & Associates](http://www.marcgold.com)
 -	[Relias Learning](http://www.reliaslearning.com/intellectual-and-developmental-disabilities)
 -	[Training Resource Network](https://trn-store.com/catalog/65)

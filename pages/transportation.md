@@ -25,7 +25,7 @@ In many local areas, transportation instruction is available through a variety o
 <h2>Massachusetts Transportation Resources</h2>
 <ul>
 <li><strong>Mass Mobility</strong><br /> Initiative to increase mobility for seniors, people with disabilities, veterans, low-income commuters, and others who lack transportation access in Massachusetts.<br /><a href="http://www.mass.gov/orgs/massmobility">mass.gov/orgs/massmobility</a></li>
-<li><strong>Massachusetts Department of Transportation</strong><a href="http://www.massdot.state.ma.us">massdot.state.ma.us</a></li>
+<li><strong>Massachusetts Department of Transportation</strong> <a href="https://www.mass.gov/orgs/massachusetts-department-of-transportation">https://www.mass.gov/orgs/massachusetts-department-of-transportation</a></li>
 <li><strong>Massachusetts public and private transit systems<br /></strong><a href="http://www.apta.com/research-technical-resources/public-transportation-links/massachusetts">apta.com/research-technical-resources/public-transportation-links/massachusetts</a></li>
 <li><strong>Massachusetts Regional Transit Authorities</strong><br /><a href="http://matransit.com">http://matransit.com</a></li>
 <li><strong>Massachusetts Human Service Transportation Office - </strong><a href="http://www.mass.gov/hst">mass.gov/hst</a></li>
