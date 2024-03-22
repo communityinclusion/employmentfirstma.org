@@ -247,3 +247,9 @@ h2 {
 }
 
 summary strong {color: #0076bd;}
+
+.colorshadow {
+  border: 2px solid #3B77B7;
+  padding: 10px;
+  box-shadow: 6px 4px #3B77B7;
+}
